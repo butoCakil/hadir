@@ -1,0 +1,10 @@
+# Config dengan kredensial asli
+config/koneksi.php
+
+# APP
+app/sendchat.php
+app/sendchat2.php
+
+# Error logs
+app/error_log
+/error_log
