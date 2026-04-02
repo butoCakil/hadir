@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Dokumentasi Presensi PKL via WA.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="%F0%9F%93%8B-dokumentasi-presensi-pkl-via-whatsapp">📋 Dokumentasi Presensi PKL via WhatsApp</h1>
+<p><strong>SMK Negeri Bansari – Tahun 2025</strong></p>
+<hr>
+<h2 id="1-pendahuluan">1. Pendahuluan</h2>
+<p>Sistem Presensi PKL ini memudahkan siswa dan pembimbing melakukan presensi, melihat rekap, dan mengakses informasi PKL langsung melalui WhatsApp.<br>
+Layanan ini memiliki beberapa menu dan perintah yang bisa digunakan sesuai kebutuhan pengguna.<br>
+Pesan (Chat) akan dibalas otomatis oleh bot, pastikan perintah yang dikirimkan sesuai.</p>
+<hr>
+<h2 id="2-daftar-perintah-utama">2. Daftar Perintah Utama</h2>
+<h3 id="21-perintah-umum">2.1 Perintah Umum</h3>
+<p>Perintah ini dapat diakses oleh siapapun, meskipun nomor belum terdaftar di sistem.</p>
+<table>
+<thead>
+<tr>
+<th>Perintah</th>
+<th>Fungsi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">info</span></td>
+<td>Menampilkan menu utama layanan.</td>
+</tr>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">cek</span></td>
+<td>Melihat status nomor WA yang digunakan.</td>
+</tr>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">cek &lt;nis/noHP&gt;</span></td>
+<td>Melihat status berdasarkan NIS atau nomor HP.</td>
+</tr>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">reg &lt;nis&gt;</span></td>
+<td>Mendaftarkan nomor WA ke sistem.</td>
+</tr>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">admin</span></td>
+<td>Kontak Admin</td>
+</tr>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">help</span></td>
+<td>Download Panduan Dokumentasi Penggunaan</td>
+</tr>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">set &lt;NIS&gt; &lt;NomorHP&gt;</span></td>
+<td>Reset nomer WA -&gt; kendala: Jika nomor tidak direspon Sistem</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="22-perintah-untuk-siswa">2.2 Perintah untuk Siswa</h3>
+<p>Perintah ini hanya dapat diakses oleh nomor yang telah terdaftar sebagai siswa.</p>
+<table>
+<thead>
+<tr>
+<th>Perintah</th>
+<th>Fungsi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">reg &lt;nis&gt;</span></td>
+<td>Mendaftarkan nomor WA ke sistem.</td>
+</tr>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">unreg</span></td>
+<td>Menghapus nomor WA dari sistem.</td>
+</tr>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">masuk</span></td>
+<td>Melakukan presensi harian  <span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">masuk</span> ⇒ <span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;"><em>Wajib menyertakan Foto</em></span></td>
+</tr>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">izin</span></td>
+<td>Melakukan presensi harian  <span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">izin</span></td>
+</tr>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">sakit</span></td>
+<td>Melakukan presensi harian  <span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">sakit</span></td>
+</tr>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">libur</span></td>
+<td>Melakukan presensi harian  <span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">libur</span></td>
+</tr>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">batal</span></td>
+<td>Membatalkan presensi.</td>
+</tr>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">lupa</span></td>
+<td>Presensi untuk hari sebelumnya (maks. 2x sehari).</td>
+</tr>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">rekap</span></td>
+<td>Mengetahui rekap presensi.</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="23-perintah-untuk-pembimbing">2.3 Perintah untuk Pembimbing</h3>
+<p>Perintah ini hanya dapat diakses oleh nomor yang telah terdaftar sebagai pembimbing.
+Nomor pembimbing akan didaftarkan oleh admin.</p>
+<table>
+<thead>
+<tr>
+<th>Perintah</th>
+<th>Fungsi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">cek rekap</span></td>
+<td>Lihat rekap presensi per kelas/pembimbing/DUDI.</td>
+</tr>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">cek rekap &lt;nis/noHP&gt;</span></td>
+<td>Lihat rekap presensi individu.</td>
+</tr>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">cek rekap &lt;kelas&gt;</span></td>
+<td>Lihat rekap presensi per kelas.</td>
+</tr>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">cek presensi</span></td>
+<td>Lihat Statistik Presensi.</td>
+</tr>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">cek presensi &lt;nis/noHP&gt;</span></td>
+<td>Lihat presensi harian individu.</td>
+</tr>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">input &lt;nis/noHP&gt; <keterangan></span></td>
+<td>Input presensi hari ini untuk siswa.</td>
+</tr>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">input &lt;nis/noHP&gt; <keterangan> &lt;tgl_awal&gt; &lt;tgl_akhir&gt;</span></td>
+<td>Input presensi dalam rentang tanggal.</td>
+</tr>
+<tr>
+<td><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">cari &lt;keyword&gt;</span></td>
+<td>Cari data siswa/pembimbing/DUDI.</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="3-panduan-penggunaan">3. Panduan Penggunaan</h2>
+<h3 id="31-mengakses-menu-utama">3.1 Mengakses Menu Utama</h3>
+<ul>
+<li>Kirim perintah: <span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">info</span></li>
+<li>Balas dengan nomor menu sesuai pilihan.
+<ul>
+<li>Contoh: ketik <span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">2</span> untuk fitur <em>Lupa Presensi</em>.</li>
+</ul>
+</li>
+</ul>
+<h3 id="32-registrasi-nomor-wa">3.2 Registrasi Nomor WA</h3>
+<ul>
+<li>Ketik: <span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">reg &lt;nis&gt;</span>
+<ul>
+<li>Contoh: <span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">reg 1234</span></li>
+</ul>
+</li>
+<li>Sistem akan menampilkan data.</li>
+<li>Balas <span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">ya</span> untuk mendaftar, atau <span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">tidak</span> untuk mengulang dengan NIS lain.</li>
+</ul>
+<h3 id="33-presensi-harian">3.3 Presensi Harian</h3>
+<ul>
+<li>Pastikan nomor WA sudah terdaftar.</li>
+<li>Ambil foto selfie di lokasi PKL.</li>
+<li>Kirim foto dengan format:<br>
+<span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">&lt;keterangan&gt; &lt;catatan&gt;</span></li>
+<li>Pilihan keterangan: <strong>masuk, izin, sakit, libur</strong></li>
+<li>Tunggu balasan: <strong>✅ Presensi Berhasil</strong></li>
+</ul>
+<h3 id="34-lupa-presensi">3.4 Lupa Presensi</h3>
+<ul>
+<li>Akses menu <span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">info</span> → ketik <strong>2</strong></li>
+<li>Kirim foto selfie seperti biasa.</li>
+<li>Gunakan format:<br>
+<span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">lupa &lt;keterangan&gt; &lt;tanggal&gt; &lt;catatan&gt;</span></li>
+<li>Tunggu balasan: <strong>✅ Presensi &quot;Lupa&quot; Diterima</strong></li>
+<li>Maksimal <strong>2 kali per hari</strong>.</li>
+</ul>
+<h3 id="35-membatalkan-presensi">3.5 Membatalkan Presensi</h3>
+<ul>
+<li>Untuk membatalkan presensi sendiri:<br>
+<span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">batal &lt;tanggal&gt;</span></li>
+<li>Untuk membatalkan presensi siswa (oleh Admin):<br>
+<span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">batal &lt;no_wa_siswa&gt; &lt;tanggal&gt;</span></li>
+</ul>
+<h3 id="36-melihat-rekap-presensi">3.6 Melihat Rekap Presensi</h3>
+<ul>
+<li>Akses menu <span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">info</span> → ketik <strong>6</strong></li>
+<li>atau ketik <span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">rekap</span></li>
+<li>Sistem akan menampilkan data rekap.</li>
+<li>Link detail akan diberikan.</li>
+</ul>
+<h3 id="37-kontak-admin">3.7 Kontak Admin</h3>
+<ul>
+<li>Ketik: <span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">admin</span></li>
+<li>Atau akses menu <span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">info</span> → ketik <strong>7</strong></li>
+<li>Tanpa mengakses perintah ini, pesan mungkin akan diabaikan</li>
+</ul>
+<hr>
+<h2 id="4-keterangan-simbol-rekap">4. Keterangan Simbol Rekap</h2>
+<table>
+<thead>
+<tr>
+<th>Simbol</th>
+<th>Arti</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>✅</td>
+<td>Masuk</td>
+</tr>
+<tr>
+<td>🔵 (Biru)</td>
+<td>Izin</td>
+</tr>
+<tr>
+<td>🟡 (Kuning)</td>
+<td>Sakit</td>
+</tr>
+<tr>
+<td>🔴 (Merah)</td>
+<td>Libur</td>
+</tr>
+<tr>
+<td>➖</td>
+<td>Libur Weekend</td>
+</tr>
+<tr>
+<td>❌</td>
+<td>Tidak presensi</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="5-fitur-pengingat-presensi-siswa">5. Fitur pengingat presensi (siswa)</h2>
+<ul>
+<li>Fitur ini akan berjalan otomatis pada jam tertentu setiap hari.</li>
+<li>Jika ada yang belum presensi akan mendapatkan pesan ini.</li>
+<li>Jika mendapatkan pesan ini cukup konfirmasi sesuai pilihan.
+<ul>
+<li><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">ya</span><br>
+⇒ Balas dengan ini, akan otomatis tersimpan / tercatat sebagai libur</li>
+<li><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">tidak</span><br>
+⇒ Harus tetap melakukan presensi seperti masuk seperti biasa (dengan foto)</li>
+<li><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">sakit</span><br>
+⇒ Balas dengan ini, akan otomatis tersimpan / tercatat sebagai sakit</li>
+<li><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">izin</span><br>
+⇒ Balas dengan ini, akan otomatis tersimpan / tercatat sebagai izin</li>
+<li><span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">libur</span><br>
+⇒ Balas dengan ini, akan otomatis tersimpan / tercatat sebagai libur</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="6-notifikasi-rekap-presensi-pembimbing">6. Notifikasi rekap presensi (pembimbing)</h2>
+<ul>
+<li>Setiap satu minggu sekali, pembimbing akan mendapatkan notifikasi rekap presensi siswa bimbingannya.</li>
+<li>Data ini lengkap dengan Nama Siswa, DUDI, Kelas, NIS dan Nomor HP</li>
+<li>Data Rekap adalah hasil presensi selama 7 hari sebelumnya.</li>
+</ul>
+<hr>
+<h2 id="7-download-panduan-penggunaan-layanan">7. Download Panduan Penggunaan Layanan</h2>
+<ul>
+<li>Untuk mendapatkan Dokumentasi panduan penggunaan chatbot Whatsapp Presensi PKL, kirim perintah:
+<span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">help</span></li>
+</ul>
+<hr>
+<h2 id="8-catatan-penting">8. Catatan Penting</h2>
+<ul>
+<li>Fitur <strong>Lupa Presensi</strong> hanya untuk <strong>hari sebelumnya</strong>.</li>
+<li>Semua aktivitas tercatat oleh sistem.</li>
+<li>Gunakan format penulisan yang benar agar sistem dapat memproses perintah.</li>
+<li>Ketika ingin bertanya pastikan beri perintah <span style="color:red; font-family:Courier, Courier New, monospace; font-weight:bold;">admin</span> terlebih dahulu. Jika tidak, kemungkinan pesan akan diabaikan.</li>
+</ul>
+<hr>
+<p>📝 <em>Sistem Presensi PKL</em> <strong>SMK Negeri Bansari</strong><br>
+🌐 <a href="https://pklbos.smknbansari.sch.id">pklbos.smknbansari.sch.id</a><br>
+©️ 2025/2026</p>
+
+</body>
+</html>

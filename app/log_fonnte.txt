@@ -1,0 +1,1895 @@
+
+[2025-11-04 08:23:05] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"test","pengirim":"6287754446580","sender":"6287754446580","senderlid":"14637819023513@lid","mode":"pn","member":"","message":"test","text":"non-button message","name":"UP Teknik Elektronika","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86297210,"isgroup":false,"isforwarded":false,"timestamp":1762219384}
+
+[2025-11-04 08:23:05] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => test
+    [pengirim] => 6287754446580
+    [sender] => 6287754446580
+    [senderlid] => 14637819023513@lid
+    [mode] => pn
+    [member] => 
+    [message] => test
+    [text] => non-button message
+    [name] => UP Teknik Elektronika
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86297210
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762219384
+)
+
+
+[2025-11-04 08:23:05] REPLY BUILT:
+working great!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 08:23:06] API RESPONSE:
+
+
+[2025-11-04 08:26:21] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"image","pengirim":"6287754446580","sender":"6287754446580","senderlid":"14637819023513@lid","mode":"pn","member":"","message":"image","text":"non-button message","name":"UP Teknik Elektronika","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86298352,"isgroup":false,"isforwarded":false,"timestamp":1762219580}
+
+[2025-11-04 08:26:21] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => image
+    [pengirim] => 6287754446580
+    [sender] => 6287754446580
+    [senderlid] => 14637819023513@lid
+    [mode] => pn
+    [member] => 
+    [message] => image
+    [text] => non-button message
+    [name] => UP Teknik Elektronika
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86298352
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762219580
+)
+
+
+[2025-11-04 08:26:21] REPLY BUILT:
+image message
+https://filesamples.com/samples/image/jpg/sample_640%C3%97426.jpg
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 08:26:21] API RESPONSE:
+
+
+[2025-11-04 08:28:25] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"test","pengirim":"6285747881171","sender":"6285747881171","senderlid":"74118418411556@lid","mode":"pn","member":"","message":"test","text":"non-button message","name":"NUGROHO 😎","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86299049,"isgroup":false,"isforwarded":false,"timestamp":1762219704}
+
+[2025-11-04 08:28:25] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => test
+    [pengirim] => 6285747881171
+    [sender] => 6285747881171
+    [senderlid] => 74118418411556@lid
+    [mode] => pn
+    [member] => 
+    [message] => test
+    [text] => non-button message
+    [name] => NUGROHO 😎
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86299049
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762219704
+)
+
+
+[2025-11-04 08:28:25] REPLY BUILT:
+working great!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 08:28:26] API RESPONSE:
+
+
+[2025-11-04 08:31:39] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"ohh yaa pak terima kasih","pengirim":"6281943567565","sender":"6281943567565","senderlid":"65326972719110@lid","mode":"lid","memberlid":"","message":"ohh yaa pak terima kasih","text":"non-button message","name":"essss","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86300040,"isgroup":false,"isforwarded":false,"timestamp":1762219898}
+
+[2025-11-04 08:31:39] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => ohh yaa pak terima kasih
+    [pengirim] => 6281943567565
+    [sender] => 6281943567565
+    [senderlid] => 65326972719110@lid
+    [mode] => lid
+    [memberlid] => 
+    [message] => ohh yaa pak terima kasih
+    [text] => non-button message
+    [name] => essss
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86300040
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762219898
+)
+
+
+[2025-11-04 08:31:39] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 08:31:40] API RESPONSE:
+
+
+[2025-11-04 08:33:12] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"Pak ben, adakah kemajuan presensi dr anak2 yg disebut di atas?","pengirim":"6281316643579","sender":"6281316643579","senderlid":"88794221015252@lid","mode":"pn","member":"","message":"Pak ben, adakah kemajuan presensi dr anak2 yg disebut di atas?","text":"non-button message","name":"Dewinta Arya","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86300567,"isgroup":false,"isforwarded":false,"timestamp":1762219990}
+
+[2025-11-04 08:33:12] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => Pak ben, adakah kemajuan presensi dr anak2 yg disebut di atas?
+    [pengirim] => 6281316643579
+    [sender] => 6281316643579
+    [senderlid] => 88794221015252@lid
+    [mode] => pn
+    [member] => 
+    [message] => Pak ben, adakah kemajuan presensi dr anak2 yg disebut di atas?
+    [text] => non-button message
+    [name] => Dewinta Arya
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86300567
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762219990
+)
+
+
+[2025-11-04 08:33:12] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 08:33:13] API RESPONSE:
+
+
+[2025-11-04 08:34:53] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"Dari: Intan Ayu Nadhifah\nKelas: XI DKV 2\n6285736235961 ~ iniintan:\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nterima kasih yaa 😁🙏🏻\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nSesi Hub.Admin *Aktif* ✅","pengirim":"6287754446580","sender":"6287754446580","senderlid":"14637819023513@lid","mode":"pn","member":"","message":"Dari: Intan Ayu Nadhifah\nKelas: XI DKV 2\n6285736235961 ~ iniintan:\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nterima kasih yaa 😁🙏🏻\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nSesi Hub.Admin *Aktif* ✅","text":"non-button message","name":"6287754446580","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86301157,"isgroup":false,"isforwarded":false,"timestamp":1762220092}
+
+[2025-11-04 08:34:53] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => Dari: Intan Ayu Nadhifah
+Kelas: XI DKV 2
+6285736235961 ~ iniintan:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+terima kasih yaa 😁🙏🏻
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Sesi Hub.Admin *Aktif* ✅
+    [pengirim] => 6287754446580
+    [sender] => 6287754446580
+    [senderlid] => 14637819023513@lid
+    [mode] => pn
+    [member] => 
+    [message] => Dari: Intan Ayu Nadhifah
+Kelas: XI DKV 2
+6285736235961 ~ iniintan:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+terima kasih yaa 😁🙏🏻
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Sesi Hub.Admin *Aktif* ✅
+    [text] => non-button message
+    [name] => 6287754446580
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86301157
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762220092
+)
+
+
+[2025-11-04 08:34:53] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 08:34:53] API RESPONSE:
+
+
+[2025-11-04 08:35:54] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"Test","pengirim":"6285602002469","sender":"6285602002469","senderlid":"4411082408170@lid","mode":"pn","member":"","message":"Test","text":"non-button message","name":"Fika Cahyaningrum","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86301457,"isgroup":false,"isforwarded":false,"timestamp":1762220153}
+
+[2025-11-04 08:35:54] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => Test
+    [pengirim] => 6285602002469
+    [sender] => 6285602002469
+    [senderlid] => 4411082408170@lid
+    [mode] => pn
+    [member] => 
+    [message] => Test
+    [text] => non-button message
+    [name] => Fika Cahyaningrum
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86301457
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762220153
+)
+
+
+[2025-11-04 08:35:54] REPLY BUILT:
+working great!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 08:35:55] API RESPONSE:
+
+
+[2025-11-04 08:35:57] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"test","pengirim":"6285602002469","sender":"6285602002469","senderlid":"4411082408170@lid","mode":"pn","member":"","message":"test","text":"non-button message","name":"Fika Cahyaningrum","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86301480,"isgroup":false,"isforwarded":false,"timestamp":1762220157}
+
+[2025-11-04 08:35:57] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => test
+    [pengirim] => 6285602002469
+    [sender] => 6285602002469
+    [senderlid] => 4411082408170@lid
+    [mode] => pn
+    [member] => 
+    [message] => test
+    [text] => non-button message
+    [name] => Fika Cahyaningrum
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86301480
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762220157
+)
+
+
+[2025-11-04 08:35:57] REPLY BUILT:
+working great!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 08:35:57] API RESPONSE:
+
+
+[2025-11-04 08:36:05] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"Tust","pengirim":"6285602002469","sender":"6285602002469","senderlid":"4411082408170@lid","mode":"pn","member":"","message":"Tust","text":"non-button message","name":"Fika Cahyaningrum","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86301534,"isgroup":false,"isforwarded":false,"timestamp":1762220165}
+
+[2025-11-04 08:36:05] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => Tust
+    [pengirim] => 6285602002469
+    [sender] => 6285602002469
+    [senderlid] => 4411082408170@lid
+    [mode] => pn
+    [member] => 
+    [message] => Tust
+    [text] => non-button message
+    [name] => Fika Cahyaningrum
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86301534
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762220165
+)
+
+
+[2025-11-04 08:36:05] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 08:36:05] API RESPONSE:
+
+
+[2025-11-04 08:36:28] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"non-text message","pengirim":"6285602002469","sender":"6285602002469","senderlid":"4411082408170@lid","mode":"pn","member":"","message":"non-text message","text":"non-button message","name":"Fika Cahyaningrum","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86301666,"isgroup":false,"isforwarded":false,"timestamp":1762220188}
+
+[2025-11-04 08:36:28] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => non-text message
+    [pengirim] => 6285602002469
+    [sender] => 6285602002469
+    [senderlid] => 4411082408170@lid
+    [mode] => pn
+    [member] => 
+    [message] => non-text message
+    [text] => non-button message
+    [name] => Fika Cahyaningrum
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86301666
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762220188
+)
+
+
+[2025-11-04 08:36:28] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 08:36:28] API RESPONSE:
+
+
+[2025-11-04 08:37:03] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"Aku nek chat ayang apapun njuk kui tiru2","pengirim":"6285602002469","sender":"6285602002469","senderlid":"4411082408170@lid","mode":"pn","member":"","message":"Aku nek chat ayang apapun njuk kui tiru2","text":"non-button message","name":"Fika Cahyaningrum","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86301848,"isgroup":false,"isforwarded":false,"timestamp":1762220222}
+
+[2025-11-04 08:37:03] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => Aku nek chat ayang apapun njuk kui tiru2
+    [pengirim] => 6285602002469
+    [sender] => 6285602002469
+    [senderlid] => 4411082408170@lid
+    [mode] => pn
+    [member] => 
+    [message] => Aku nek chat ayang apapun njuk kui tiru2
+    [text] => non-button message
+    [name] => Fika Cahyaningrum
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86301848
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762220222
+)
+
+
+[2025-11-04 08:37:03] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 08:37:04] API RESPONSE:
+
+
+[2025-11-04 08:37:25] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"Aku koprol bales meneh","pengirim":"6285602002469","sender":"6285602002469","senderlid":"4411082408170@lid","mode":"pn","member":"","message":"Aku koprol bales meneh","text":"non-button message","name":"Fika Cahyaningrum","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86301959,"isgroup":false,"isforwarded":false,"timestamp":1762220244}
+
+[2025-11-04 08:37:25] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => Aku koprol bales meneh
+    [pengirim] => 6285602002469
+    [sender] => 6285602002469
+    [senderlid] => 4411082408170@lid
+    [mode] => pn
+    [member] => 
+    [message] => Aku koprol bales meneh
+    [text] => non-button message
+    [name] => Fika Cahyaningrum
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86301959
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762220244
+)
+
+
+[2025-11-04 08:37:25] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 08:37:25] API RESPONSE:
+
+
+[2025-11-04 08:48:20] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"non-text message","pengirim":"6281316643579","sender":"6281316643579","senderlid":"88794221015252@lid","mode":"pn","member":"","message":"non-text message","text":"non-button message","name":"Dewinta Arya","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86305647,"isgroup":false,"isforwarded":false,"timestamp":1762220898}
+
+[2025-11-04 08:48:20] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => non-text message
+    [pengirim] => 6281316643579
+    [sender] => 6281316643579
+    [senderlid] => 88794221015252@lid
+    [mode] => pn
+    [member] => 
+    [message] => non-text message
+    [text] => non-button message
+    [name] => Dewinta Arya
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86305647
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762220898
+)
+
+
+[2025-11-04 08:48:20] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 08:48:21] API RESPONSE:
+
+
+[2025-11-04 08:51:22] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"Oiya benar","pengirim":"6285808980003","sender":"6285808980003","senderlid":"268001714655395@lid","mode":"pn","member":"","message":"Oiya benar","text":"non-button message","name":"WHACENTER","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86306716,"isgroup":false,"isforwarded":false,"timestamp":1762221081}
+
+[2025-11-04 08:51:22] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => Oiya benar
+    [pengirim] => 6285808980003
+    [sender] => 6285808980003
+    [senderlid] => 268001714655395@lid
+    [mode] => pn
+    [member] => 
+    [message] => Oiya benar
+    [text] => non-button message
+    [name] => WHACENTER
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86306716
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762221081
+)
+
+
+[2025-11-04 08:51:22] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 08:51:23] API RESPONSE:
+
+
+[2025-11-04 08:51:26] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"Wa ada update","pengirim":"6285808980003","sender":"6285808980003","senderlid":"268001714655395@lid","mode":"pn","member":"","message":"Wa ada update","text":"non-button message","name":"WHACENTER","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86306737,"isgroup":false,"isforwarded":false,"timestamp":1762221086}
+
+[2025-11-04 08:51:26] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => Wa ada update
+    [pengirim] => 6285808980003
+    [sender] => 6285808980003
+    [senderlid] => 268001714655395@lid
+    [mode] => pn
+    [member] => 
+    [message] => Wa ada update
+    [text] => non-button message
+    [name] => WHACENTER
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86306737
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762221086
+)
+
+
+[2025-11-04 08:51:26] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 08:51:26] API RESPONSE:
+
+
+[2025-11-04 08:51:32] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"Sekarang pakai lid id","pengirim":"6285808980003","sender":"6285808980003","senderlid":"268001714655395@lid","mode":"pn","member":"","message":"Sekarang pakai lid id","text":"non-button message","name":"WHACENTER","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86306772,"isgroup":false,"isforwarded":false,"timestamp":1762221092}
+
+[2025-11-04 08:51:32] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => Sekarang pakai lid id
+    [pengirim] => 6285808980003
+    [sender] => 6285808980003
+    [senderlid] => 268001714655395@lid
+    [mode] => pn
+    [member] => 
+    [message] => Sekarang pakai lid id
+    [text] => non-button message
+    [name] => WHACENTER
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86306772
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762221092
+)
+
+
+[2025-11-04 08:51:32] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 08:51:32] API RESPONSE:
+
+
+[2025-11-04 08:51:54] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"Coba nanti saya pelajari","pengirim":"6285808980003","sender":"6285808980003","senderlid":"268001714655395@lid","mode":"pn","member":"","message":"Coba nanti saya pelajari","text":"non-button message","name":"WHACENTER","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86306894,"isgroup":false,"isforwarded":false,"timestamp":1762221114}
+
+[2025-11-04 08:51:54] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => Coba nanti saya pelajari
+    [pengirim] => 6285808980003
+    [sender] => 6285808980003
+    [senderlid] => 268001714655395@lid
+    [mode] => pn
+    [member] => 
+    [message] => Coba nanti saya pelajari
+    [text] => non-button message
+    [name] => WHACENTER
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86306894
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762221114
+)
+
+
+[2025-11-04 08:51:54] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 08:51:54] API RESPONSE:
+
+
+[2025-11-04 08:59:06] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"Brti ini sy keluar ya pak","pengirim":"6281316643579","sender":"6281316643579","senderlid":"88794221015252@lid","mode":"pn","member":"","message":"Brti ini sy keluar ya pak","text":"non-button message","name":"Dewinta Arya","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86309589,"isgroup":false,"isforwarded":false,"timestamp":1762221545}
+
+[2025-11-04 08:59:06] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => Brti ini sy keluar ya pak
+    [pengirim] => 6281316643579
+    [sender] => 6281316643579
+    [senderlid] => 88794221015252@lid
+    [mode] => pn
+    [member] => 
+    [message] => Brti ini sy keluar ya pak
+    [text] => non-button message
+    [name] => Dewinta Arya
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86309589
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762221545
+)
+
+
+[2025-11-04 08:59:06] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 08:59:07] API RESPONSE:
+
+
+[2025-11-04 09:00:14] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"Ya ditunggu kabarnya segera. Krn sbntar lg penarikan","pengirim":"6281316643579","sender":"6281316643579","senderlid":"88794221015252@lid","mode":"pn","member":"","message":"Ya ditunggu kabarnya segera. Krn sbntar lg penarikan","text":"non-button message","name":"Dewinta Arya","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86310044,"isgroup":false,"isforwarded":false,"timestamp":1762221612}
+
+[2025-11-04 09:00:14] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => Ya ditunggu kabarnya segera. Krn sbntar lg penarikan
+    [pengirim] => 6281316643579
+    [sender] => 6281316643579
+    [senderlid] => 88794221015252@lid
+    [mode] => pn
+    [member] => 
+    [message] => Ya ditunggu kabarnya segera. Krn sbntar lg penarikan
+    [text] => non-button message
+    [name] => Dewinta Arya
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86310044
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762221612
+)
+
+
+[2025-11-04 09:00:14] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 09:00:15] API RESPONSE:
+
+
+[2025-11-04 09:00:51] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"Qoni gimana pak??","pengirim":"6281316643579","sender":"6281316643579","senderlid":"88794221015252@lid","mode":"pn","member":"","message":"Qoni gimana pak??","text":"non-button message","name":"Dewinta Arya","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86310305,"isgroup":false,"isforwarded":false,"timestamp":1762221651}
+
+[2025-11-04 09:00:51] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => Qoni gimana pak??
+    [pengirim] => 6281316643579
+    [sender] => 6281316643579
+    [senderlid] => 88794221015252@lid
+    [mode] => pn
+    [member] => 
+    [message] => Qoni gimana pak??
+    [text] => non-button message
+    [name] => Dewinta Arya
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86310305
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762221651
+)
+
+
+[2025-11-04 09:00:51] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 09:00:51] API RESPONSE:
+
+
+[2025-11-04 09:02:06] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"Oh iya brti masih mau lanjut pak","pengirim":"6281316643579","sender":"6281316643579","senderlid":"88794221015252@lid","mode":"pn","member":"","message":"Oh iya brti masih mau lanjut pak","text":"non-button message","name":"Dewinta Arya","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86310857,"isgroup":false,"isforwarded":false,"timestamp":1762221725}
+
+[2025-11-04 09:02:06] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => Oh iya brti masih mau lanjut pak
+    [pengirim] => 6281316643579
+    [sender] => 6281316643579
+    [senderlid] => 88794221015252@lid
+    [mode] => pn
+    [member] => 
+    [message] => Oh iya brti masih mau lanjut pak
+    [text] => non-button message
+    [name] => Dewinta Arya
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86310857
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762221725
+)
+
+
+[2025-11-04 09:02:06] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 09:02:07] API RESPONSE:
+
+
+[2025-11-04 09:04:23] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"Yakin ya pak, jgn spertinya 😅","pengirim":"6281316643579","sender":"6281316643579","senderlid":"88794221015252@lid","mode":"pn","member":"","message":"Yakin ya pak, jgn spertinya 😅","text":"non-button message","name":"Dewinta Arya","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86311916,"isgroup":false,"isforwarded":false,"timestamp":1762221862}
+
+[2025-11-04 09:04:23] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => Yakin ya pak, jgn spertinya 😅
+    [pengirim] => 6281316643579
+    [sender] => 6281316643579
+    [senderlid] => 88794221015252@lid
+    [mode] => pn
+    [member] => 
+    [message] => Yakin ya pak, jgn spertinya 😅
+    [text] => non-button message
+    [name] => Dewinta Arya
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86311916
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762221862
+)
+
+
+[2025-11-04 09:04:23] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 09:04:23] API RESPONSE:
+
+
+[2025-11-04 09:22:04] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"🚨\nDari: Nomor Tidak terdaftar\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n216836322938947 ~ idanthung mengirim pesan melalui layanan WA Presensi.\n\n🛎️ Mohon dicek dan ditanggapi segera.","pengirim":"6287754446580","sender":"6287754446580","senderlid":"14637819023513@lid","mode":"pn","member":"","message":"🚨\nDari: Nomor Tidak terdaftar\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n216836322938947 ~ idanthung mengirim pesan melalui layanan WA Presensi.\n\n🛎️ Mohon dicek dan ditanggapi segera.","text":"non-button message","name":"6287754446580","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86319015,"isgroup":false,"isforwarded":false,"timestamp":1762222923}
+
+[2025-11-04 09:22:04] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => 🚨
+Dari: Nomor Tidak terdaftar
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+216836322938947 ~ idanthung mengirim pesan melalui layanan WA Presensi.
+
+🛎️ Mohon dicek dan ditanggapi segera.
+    [pengirim] => 6287754446580
+    [sender] => 6287754446580
+    [senderlid] => 14637819023513@lid
+    [mode] => pn
+    [member] => 
+    [message] => 🚨
+Dari: Nomor Tidak terdaftar
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+216836322938947 ~ idanthung mengirim pesan melalui layanan WA Presensi.
+
+🛎️ Mohon dicek dan ditanggapi segera.
+    [text] => non-button message
+    [name] => 6287754446580
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86319015
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762222923
+)
+
+
+[2025-11-04 09:22:04] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 09:22:04] API RESPONSE:
+
+
+[2025-11-04 09:22:37] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"Dari: DWI ANDIKA PUTRA\nKelas: XI TE 1\n☑ Chat ini telah dibalas sistem main_messages:\n6289688067685 ~ ~:\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nkalo libur di jurnal di isi ngga pak?\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nSesi Hub.Admin *Tidak Aktif* 🚫","pengirim":"6287754446580","sender":"6287754446580","senderlid":"14637819023513@lid","mode":"pn","member":"","message":"Dari: DWI ANDIKA PUTRA\nKelas: XI TE 1\n☑ Chat ini telah dibalas sistem main_messages:\n6289688067685 ~ ~:\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nkalo libur di jurnal di isi ngga pak?\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nSesi Hub.Admin *Tidak Aktif* 🚫","text":"non-button message","name":"6287754446580","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86319253,"isgroup":false,"isforwarded":false,"timestamp":1762222957}
+
+[2025-11-04 09:22:37] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => Dari: DWI ANDIKA PUTRA
+Kelas: XI TE 1
+☑ Chat ini telah dibalas sistem main_messages:
+6289688067685 ~ ~:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+kalo libur di jurnal di isi ngga pak?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Sesi Hub.Admin *Tidak Aktif* 🚫
+    [pengirim] => 6287754446580
+    [sender] => 6287754446580
+    [senderlid] => 14637819023513@lid
+    [mode] => pn
+    [member] => 
+    [message] => Dari: DWI ANDIKA PUTRA
+Kelas: XI TE 1
+☑ Chat ini telah dibalas sistem main_messages:
+6289688067685 ~ ~:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+kalo libur di jurnal di isi ngga pak?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Sesi Hub.Admin *Tidak Aktif* 🚫
+    [text] => non-button message
+    [name] => 6287754446580
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86319253
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762222957
+)
+
+
+[2025-11-04 09:22:37] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 09:22:37] API RESPONSE:
+
+
+[2025-11-04 09:23:20] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"Dari: DWI ANDIKA PUTRA\nKelas: XI TE 1\n⏳ Belum terbalas sistem main_messages:\n6289688067685 ~ ~:\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nrekap presensi\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nSesi Hub.Admin *Tidak Aktif* 🚫","pengirim":"6287754446580","sender":"6287754446580","senderlid":"14637819023513@lid","mode":"pn","member":"","message":"Dari: DWI ANDIKA PUTRA\nKelas: XI TE 1\n⏳ Belum terbalas sistem main_messages:\n6289688067685 ~ ~:\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nrekap presensi\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nSesi Hub.Admin *Tidak Aktif* 🚫","text":"non-button message","name":"6287754446580","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86319516,"isgroup":false,"isforwarded":false,"timestamp":1762222999}
+
+[2025-11-04 09:23:20] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => Dari: DWI ANDIKA PUTRA
+Kelas: XI TE 1
+⏳ Belum terbalas sistem main_messages:
+6289688067685 ~ ~:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+rekap presensi
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Sesi Hub.Admin *Tidak Aktif* 🚫
+    [pengirim] => 6287754446580
+    [sender] => 6287754446580
+    [senderlid] => 14637819023513@lid
+    [mode] => pn
+    [member] => 
+    [message] => Dari: DWI ANDIKA PUTRA
+Kelas: XI TE 1
+⏳ Belum terbalas sistem main_messages:
+6289688067685 ~ ~:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+rekap presensi
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Sesi Hub.Admin *Tidak Aktif* 🚫
+    [text] => non-button message
+    [name] => 6287754446580
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86319516
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762222999
+)
+
+
+[2025-11-04 09:23:20] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 09:23:20] API RESPONSE:
+
+
+[2025-11-04 09:46:54] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"🚨\nDari: Nomor Tidak terdaftar\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n201464064544884 ~ baru mengirim pesan melalui layanan WA Presensi.\n\n🛎️ Mohon dicek dan ditanggapi segera.","pengirim":"6287754446580","sender":"6287754446580","senderlid":"14637819023513@lid","mode":"pn","member":"","message":"🚨\nDari: Nomor Tidak terdaftar\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n201464064544884 ~ baru mengirim pesan melalui layanan WA Presensi.\n\n🛎️ Mohon dicek dan ditanggapi segera.","text":"non-button message","name":"6287754446580","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86329000,"isgroup":false,"isforwarded":false,"timestamp":1762224413}
+
+[2025-11-04 09:46:54] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => 🚨
+Dari: Nomor Tidak terdaftar
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+201464064544884 ~ baru mengirim pesan melalui layanan WA Presensi.
+
+🛎️ Mohon dicek dan ditanggapi segera.
+    [pengirim] => 6287754446580
+    [sender] => 6287754446580
+    [senderlid] => 14637819023513@lid
+    [mode] => pn
+    [member] => 
+    [message] => 🚨
+Dari: Nomor Tidak terdaftar
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+201464064544884 ~ baru mengirim pesan melalui layanan WA Presensi.
+
+🛎️ Mohon dicek dan ditanggapi segera.
+    [text] => non-button message
+    [name] => 6287754446580
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86329000
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762224413
+)
+
+
+[2025-11-04 09:46:54] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 09:46:54] API RESPONSE:
+
+
+[2025-11-04 09:47:35] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"Dari: Reza Agung Praditya\nKelas: XI AT 1\n☑ Chat ini telah dibalas sistem main_messages:\n6287896605004 ~ rez:\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nkemarin masuk\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nSesi Hub.Admin *Tidak Aktif* 🚫","pengirim":"6287754446580","sender":"6287754446580","senderlid":"14637819023513@lid","mode":"pn","member":"","message":"Dari: Reza Agung Praditya\nKelas: XI AT 1\n☑ Chat ini telah dibalas sistem main_messages:\n6287896605004 ~ rez:\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nkemarin masuk\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nSesi Hub.Admin *Tidak Aktif* 🚫","text":"non-button message","name":"6287754446580","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86329274,"isgroup":false,"isforwarded":false,"timestamp":1762224455}
+
+[2025-11-04 09:47:35] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => Dari: Reza Agung Praditya
+Kelas: XI AT 1
+☑ Chat ini telah dibalas sistem main_messages:
+6287896605004 ~ rez:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+kemarin masuk
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Sesi Hub.Admin *Tidak Aktif* 🚫
+    [pengirim] => 6287754446580
+    [sender] => 6287754446580
+    [senderlid] => 14637819023513@lid
+    [mode] => pn
+    [member] => 
+    [message] => Dari: Reza Agung Praditya
+Kelas: XI AT 1
+☑ Chat ini telah dibalas sistem main_messages:
+6287896605004 ~ rez:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+kemarin masuk
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Sesi Hub.Admin *Tidak Aktif* 🚫
+    [text] => non-button message
+    [name] => 6287754446580
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86329274
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762224455
+)
+
+
+[2025-11-04 09:47:35] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 09:47:35] API RESPONSE:
+
+
+[2025-11-04 10:08:04] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"🚨 *Device Status Report (SiAPP)*\n-----------------------------\n1. *2309MAS001* (Masjid 1): 🚫 offline\n-----------------------------\n\n📊 Total Device: 6\n🛜 Online: 3\n🚫 Offline: 3\n⏱ 2025-11-04 10:08:01","pengirim":"6287754446580","sender":"6287754446580","senderlid":"14637819023513@lid","mode":"pn","member":"","message":"🚨 *Device Status Report (SiAPP)*\n-----------------------------\n1. *2309MAS001* (Masjid 1): 🚫 offline\n-----------------------------\n\n📊 Total Device: 6\n🛜 Online: 3\n🚫 Offline: 3\n⏱ 2025-11-04 10:08:01","text":"non-button message","name":"6287754446580","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86337292,"isgroup":false,"isforwarded":false,"timestamp":1762225682}
+
+[2025-11-04 10:08:04] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => 🚨 *Device Status Report (SiAPP)*
+-----------------------------
+1. *2309MAS001* (Masjid 1): 🚫 offline
+-----------------------------
+
+📊 Total Device: 6
+🛜 Online: 3
+🚫 Offline: 3
+⏱ 2025-11-04 10:08:01
+    [pengirim] => 6287754446580
+    [sender] => 6287754446580
+    [senderlid] => 14637819023513@lid
+    [mode] => pn
+    [member] => 
+    [message] => 🚨 *Device Status Report (SiAPP)*
+-----------------------------
+1. *2309MAS001* (Masjid 1): 🚫 offline
+-----------------------------
+
+📊 Total Device: 6
+🛜 Online: 3
+🚫 Offline: 3
+⏱ 2025-11-04 10:08:01
+    [text] => non-button message
+    [name] => 6287754446580
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86337292
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762225682
+)
+
+
+[2025-11-04 10:08:04] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 10:08:05] API RESPONSE:
+
+
+[2025-11-04 10:18:28] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"Dari: DWI ANDIKA PUTRA\nKelas: XI TE 1\n6289688067685 ~ ~:\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\ndi jurnal di isi gak kalo libur?\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nSesi Hub.Admin *Aktif* ✅","pengirim":"6287754446580","sender":"6287754446580","senderlid":"14637819023513@lid","mode":"pn","member":"","message":"Dari: DWI ANDIKA PUTRA\nKelas: XI TE 1\n6289688067685 ~ ~:\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\ndi jurnal di isi gak kalo libur?\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nSesi Hub.Admin *Aktif* ✅","text":"non-button message","name":"6287754446580","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86341198,"isgroup":false,"isforwarded":false,"timestamp":1762226307}
+
+[2025-11-04 10:18:28] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => Dari: DWI ANDIKA PUTRA
+Kelas: XI TE 1
+6289688067685 ~ ~:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+di jurnal di isi gak kalo libur?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Sesi Hub.Admin *Aktif* ✅
+    [pengirim] => 6287754446580
+    [sender] => 6287754446580
+    [senderlid] => 14637819023513@lid
+    [mode] => pn
+    [member] => 
+    [message] => Dari: DWI ANDIKA PUTRA
+Kelas: XI TE 1
+6289688067685 ~ ~:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+di jurnal di isi gak kalo libur?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Sesi Hub.Admin *Aktif* ✅
+    [text] => non-button message
+    [name] => 6287754446580
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86341198
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762226307
+)
+
+
+[2025-11-04 10:18:28] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 10:18:28] API RESPONSE:
+
+
+[2025-11-04 10:19:59] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"Dari: Mr X\nKelas: XI TE 1\n☑ Chat ini telah dibalas sistem main_messages:\n6282241863393 ~ MasBen:\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nTest\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nSesi Hub.Admin *Tidak Aktif* 🚫","pengirim":"6287754446580","sender":"6287754446580","senderlid":"14637819023513@lid","mode":"pn","member":"","message":"Dari: Mr X\nKelas: XI TE 1\n☑ Chat ini telah dibalas sistem main_messages:\n6282241863393 ~ MasBen:\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nTest\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nSesi Hub.Admin *Tidak Aktif* 🚫","text":"non-button message","name":"6287754446580","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86341736,"isgroup":false,"isforwarded":false,"timestamp":1762226398}
+
+[2025-11-04 10:19:59] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => Dari: Mr X
+Kelas: XI TE 1
+☑ Chat ini telah dibalas sistem main_messages:
+6282241863393 ~ MasBen:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Test
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Sesi Hub.Admin *Tidak Aktif* 🚫
+    [pengirim] => 6287754446580
+    [sender] => 6287754446580
+    [senderlid] => 14637819023513@lid
+    [mode] => pn
+    [member] => 
+    [message] => Dari: Mr X
+Kelas: XI TE 1
+☑ Chat ini telah dibalas sistem main_messages:
+6282241863393 ~ MasBen:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Test
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Sesi Hub.Admin *Tidak Aktif* 🚫
+    [text] => non-button message
+    [name] => 6287754446580
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86341736
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762226398
+)
+
+
+[2025-11-04 10:19:59] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 10:19:59] API RESPONSE:
+
+
+[2025-11-04 10:20:04] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"👋 Hai Mr X\n\n📖 Balas `info` untuk panduan.\n🆘 Butuh bantuan? Balas `admin` atau `7`.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*\n©️ ```2025```","pengirim":"6287754446580","sender":"6287754446580","senderlid":"14637819023513@lid","mode":"pn","member":"","message":"👋 Hai Mr X\n\n📖 Balas `info` untuk panduan.\n🆘 Butuh bantuan? Balas `admin` atau `7`.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*\n©️ ```2025```","text":"non-button message","name":"6287754446580","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86341740,"isgroup":false,"isforwarded":false,"timestamp":1762226399}
+
+[2025-11-04 10:20:04] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => 👋 Hai Mr X
+
+📖 Balas `info` untuk panduan.
+🆘 Butuh bantuan? Balas `admin` atau `7`.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+    [pengirim] => 6287754446580
+    [sender] => 6287754446580
+    [senderlid] => 14637819023513@lid
+    [mode] => pn
+    [member] => 
+    [message] => 👋 Hai Mr X
+
+📖 Balas `info` untuk panduan.
+🆘 Butuh bantuan? Balas `admin` atau `7`.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+    [text] => non-button message
+    [name] => 6287754446580
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86341740
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762226399
+)
+
+
+[2025-11-04 10:20:04] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 10:20:05] API RESPONSE:
+
+
+[2025-11-04 10:20:47] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"=======================================\n📋 *Hasil Pencarian Data Siswa:*\n=======================================\n```\nNIS        : 3407\nNama       : QONIUSSALIM\nKelas      : XI TE 3\nJurusan    : TE\nNo HP      : 089518701476\n\n🏢 *Penempatan DUDI:*\n  - Nama DUDI    : MG Audio ( Bansari)\n  - Alamat       : Masanan, RT.01/RW.01, Macanan, Mojosari, Kec. Bansari, Kabupaten Temanggung, Jawa Tengah 56265\n  - Pembimbing   : M. Harizka Rahmanto, S.Pd\n───────────────\n```\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*\n©️ ```2025```","pengirim":"6287754446580","sender":"6287754446580","senderlid":"14637819023513@lid","mode":"pn","member":"","message":"=======================================\n📋 *Hasil Pencarian Data Siswa:*\n=======================================\n```\nNIS        : 3407\nNama       : QONIUSSALIM\nKelas      : XI TE 3\nJurusan    : TE\nNo HP      : 089518701476\n\n🏢 *Penempatan DUDI:*\n  - Nama DUDI    : MG Audio ( Bansari)\n  - Alamat       : Masanan, RT.01/RW.01, Macanan, Mojosari, Kec. Bansari, Kabupaten Temanggung, Jawa Tengah 56265\n  - Pembimbing   : M. Harizka Rahmanto, S.Pd\n───────────────\n```\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*\n©️ ```2025```","text":"non-button message","name":"6287754446580","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86342030,"isgroup":false,"isforwarded":false,"timestamp":1762226447}
+
+[2025-11-04 10:20:47] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => =======================================
+📋 *Hasil Pencarian Data Siswa:*
+=======================================
+```
+NIS        : 3407
+Nama       : QONIUSSALIM
+Kelas      : XI TE 3
+Jurusan    : TE
+No HP      : 089518701476
+
+🏢 *Penempatan DUDI:*
+  - Nama DUDI    : MG Audio ( Bansari)
+  - Alamat       : Masanan, RT.01/RW.01, Macanan, Mojosari, Kec. Bansari, Kabupaten Temanggung, Jawa Tengah 56265
+  - Pembimbing   : M. Harizka Rahmanto, S.Pd
+───────────────
+```
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+    [pengirim] => 6287754446580
+    [sender] => 6287754446580
+    [senderlid] => 14637819023513@lid
+    [mode] => pn
+    [member] => 
+    [message] => =======================================
+📋 *Hasil Pencarian Data Siswa:*
+=======================================
+```
+NIS        : 3407
+Nama       : QONIUSSALIM
+Kelas      : XI TE 3
+Jurusan    : TE
+No HP      : 089518701476
+
+🏢 *Penempatan DUDI:*
+  - Nama DUDI    : MG Audio ( Bansari)
+  - Alamat       : Masanan, RT.01/RW.01, Macanan, Mojosari, Kec. Bansari, Kabupaten Temanggung, Jawa Tengah 56265
+  - Pembimbing   : M. Harizka Rahmanto, S.Pd
+───────────────
+```
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+    [text] => non-button message
+    [name] => 6287754446580
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86342030
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762226447
+)
+
+
+[2025-11-04 10:20:47] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 10:20:47] API RESPONSE:
+
+
+[2025-11-04 10:21:01] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"```\nRekap Jurnal PKL\nNama : QONIUSSALIM\nNIS  : 3407\nKelas: XI TE 3\n\nNo.  Tanggal     Jam    Ket Catatan\n----------------------------------------\n1    17-07-2025  10:26  ✅ belajar\n     merakit sound sistem\n2    18-07-2025  11:02  ✅ menata sound\n     system\n3    21-07-2025  11:53  ✅ dan\n     memperbaiki salon\n4    22-07-2025  11:18  ✅ dan mengganti\n     salon\n5    23-07-2025  08:58  ✅ dan menata\n     kabel\n6    24-07-2025  09:02  ✅ dan belum adaa\n     pekerjaan\n7    28-07-2025  10:12  ✅ membongkar\n     salon\n8    29-07-2025  09:35  ✅ menata dan\n     mengecek salon\n9    31-07-2025  11:05  ✅ memasang salon\n10   01-08-2025  10:36  🟡 pusing\n11   05-08-2025  17:20  🔴 tidak ada job\n12   06-08-2025  19:44  🔴 tidak ada job\n13   11-08-2025  15:50  🔴 tidak ada job\n14   12-08-2025  11:12  ✅ membersihkan\n15   13-08-2025  17:05  🔴 \n16   14-08-2025  17:08  🔴 \n17   15-08-2025  17:09  ✅ sedang\n     persiapan ngejob\n18   16-08-2025  16:45  🔴 \n19   17-08-2025  16:45  🔴 \n20   18-08-2025  17:26  🔵 \n21   19-08-2025  10:55  ✅ membongkar\n     salon\n22   20-08-2025  16:45  🔴 \n23   23-08-2025  16:45  🔴 \n24   24-08-2025  16:45  🔴 \n25   25-08-2025  16:48  🔴 \n26   27-08-2025  16:45  🔴 \n27   28-08-2025  16:45  🔴 \n28   30-08-2025  16:45  🔴 \n29   31-08-2025  16:45  🔴 \n30   02-09-2025  17:15  ✅ memasang\n     speaker\n31   03-09-2025  16:45  🔴 \n32   04-09-2025  17:20  ✅ sedang ngejob\n33   05-09-2025  16:45  🔴 \n34   06-09-2025  16:45  🔴 \n35   07-09-2025  16:45  🔴 \n36   08-09-2025  15:49  ✅ ngejob\n37   10-09-2025  16:45  🔴 \n38   11-09-2025  16:53  🔴 tidak ada job\n39   12-09-2025  17:21  🔵 \n40   13-09-2025  16:45  🔴 \n41   14-09-2025  16:45  🔴 \n42   15-09-2025  15:00  🔴 \n43   16-09-2025  10:50  ✅ membongkar\n     sound\n44   17-09-2025  12:30  🔵 bude ne\n     meninggal\n45   18-09-2025  20:59  ✅ ngejob\n46   20-09-2025  16:45  🔴 \n47   21-09-2025  16:45  🔴 \n48   22-09-2025  13:29  🔴 tidak ada job\n49   23-09-2025  10:55  🟡 diare\n50   24-09-2025  09:47  ✅ memperbaiki\n     speaker\n51   25-09-2025  12:16  ✅ bersih&quot;\n52   26-09-2025  09:54  🟡 demam\n53   27-09-2025  16:19  ✅ ngejob\n54   28-09-2025  10:49  ✅ ngejob\n55   29-09-2025  16:45  🔴 \n56   30-09-2025  17:22  🔵 \n57   01-10-2025  14:33  ✅ membuat box\n58   02-10-2025  14:06  🟡 masuk angin\n59   03-10-2025  14:01  🟡 masih masuk\n     angin\n60   04-10-2025  16:59  🔵 acara mendadak\n61   05-10-2025  17:47  🔴 \n62   06-10-2025  16:45  🔴 \n63   13-10-2025  11:02  ✅ menyoldir\n64   15-10-2025  12:49  ✅ memasang\n     speaker\n65   16-10-2025  12:11  ✅ ngecat sound\n66   17-10-2025  16:17  🔴 tidak ada job\n67   19-10-2025  16:45  🔴 \n68   20-10-2025  10:17  ✅ di bengkel\n69   21-10-2025  16:34  🔴 tidak ada job\n70   25-10-2025  16:45  🔴 \n71   26-10-2025  16:45  🔴 \n72   28-10-2025  10:06  ✅ \n73   29-10-2025  17:27  ✅ di bengkel\n74   30-10-2025  17:31  ✅ di bengkel\n75   31-10-2025  17:01  ✅ di bengkel\n76   01-11-2025  16:45  🔴 \n77   02-11-2025  16:45  🔴 \n78   03-11-2025  18:12  ✅ bersih&quot;\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*\n©️ ```2025```","pengirim":"6287754446580","sender":"6287754446580","senderlid":"14637819023513@lid","mode":"pn","member":"","message":"```\nRekap Jurnal PKL\nNama : QONIUSSALIM\nNIS  : 3407\nKelas: XI TE 3\n\nNo.  Tanggal     Jam    Ket Catatan\n----------------------------------------\n1    17-07-2025  10:26  ✅ belajar\n     merakit sound sistem\n2    18-07-2025  11:02  ✅ menata sound\n     system\n3    21-07-2025  11:53  ✅ dan\n     memperbaiki salon\n4    22-07-2025  11:18  ✅ dan mengganti\n     salon\n5    23-07-2025  08:58  ✅ dan menata\n     kabel\n6    24-07-2025  09:02  ✅ dan belum adaa\n     pekerjaan\n7    28-07-2025  10:12  ✅ membongkar\n     salon\n8    29-07-2025  09:35  ✅ menata dan\n     mengecek salon\n9    31-07-2025  11:05  ✅ memasang salon\n10   01-08-2025  10:36  🟡 pusing\n11   05-08-2025  17:20  🔴 tidak ada job\n12   06-08-2025  19:44  🔴 tidak ada job\n13   11-08-2025  15:50  🔴 tidak ada job\n14   12-08-2025  11:12  ✅ membersihkan\n15   13-08-2025  17:05  🔴 \n16   14-08-2025  17:08  🔴 \n17   15-08-2025  17:09  ✅ sedang\n     persiapan ngejob\n18   16-08-2025  16:45  🔴 \n19   17-08-2025  16:45  🔴 \n20   18-08-2025  17:26  🔵 \n21   19-08-2025  10:55  ✅ membongkar\n     salon\n22   20-08-2025  16:45  🔴 \n23   23-08-2025  16:45  🔴 \n24   24-08-2025  16:45  🔴 \n25   25-08-2025  16:48  🔴 \n26   27-08-2025  16:45  🔴 \n27   28-08-2025  16:45  🔴 \n28   30-08-2025  16:45  🔴 \n29   31-08-2025  16:45  🔴 \n30   02-09-2025  17:15  ✅ memasang\n     speaker\n31   03-09-2025  16:45  🔴 \n32   04-09-2025  17:20  ✅ sedang ngejob\n33   05-09-2025  16:45  🔴 \n34   06-09-2025  16:45  🔴 \n35   07-09-2025  16:45  🔴 \n36   08-09-2025  15:49  ✅ ngejob\n37   10-09-2025  16:45  🔴 \n38   11-09-2025  16:53  🔴 tidak ada job\n39   12-09-2025  17:21  🔵 \n40   13-09-2025  16:45  🔴 \n41   14-09-2025  16:45  🔴 \n42   15-09-2025  15:00  🔴 \n43   16-09-2025  10:50  ✅ membongkar\n     sound\n44   17-09-2025  12:30  🔵 bude ne\n     meninggal\n45   18-09-2025  20:59  ✅ ngejob\n46   20-09-2025  16:45  🔴 \n47   21-09-2025  16:45  🔴 \n48   22-09-2025  13:29  🔴 tidak ada job\n49   23-09-2025  10:55  🟡 diare\n50   24-09-2025  09:47  ✅ memperbaiki\n     speaker\n51   25-09-2025  12:16  ✅ bersih&quot;\n52   26-09-2025  09:54  🟡 demam\n53   27-09-2025  16:19  ✅ ngejob\n54   28-09-2025  10:49  ✅ ngejob\n55   29-09-2025  16:45  🔴 \n56   30-09-2025  17:22  🔵 \n57   01-10-2025  14:33  ✅ membuat box\n58   02-10-2025  14:06  🟡 masuk angin\n59   03-10-2025  14:01  🟡 masih masuk\n     angin\n60   04-10-2025  16:59  🔵 acara mendadak\n61   05-10-2025  17:47  🔴 \n62   06-10-2025  16:45  🔴 \n63   13-10-2025  11:02  ✅ menyoldir\n64   15-10-2025  12:49  ✅ memasang\n     speaker\n65   16-10-2025  12:11  ✅ ngecat sound\n66   17-10-2025  16:17  🔴 tidak ada job\n67   19-10-2025  16:45  🔴 \n68   20-10-2025  10:17  ✅ di bengkel\n69   21-10-2025  16:34  🔴 tidak ada job\n70   25-10-2025  16:45  🔴 \n71   26-10-2025  16:45  🔴 \n72   28-10-2025  10:06  ✅ \n73   29-10-2025  17:27  ✅ di bengkel\n74   30-10-2025  17:31  ✅ di bengkel\n75   31-10-2025  17:01  ✅ di bengkel\n76   01-11-2025  16:45  🔴 \n77   02-11-2025  16:45  🔴 \n78   03-11-2025  18:12  ✅ bersih&quot;\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*\n©️ ```2025```","text":"non-button message","name":"6287754446580","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86342111,"isgroup":false,"isforwarded":false,"timestamp":1762226460}
+
+[2025-11-04 10:21:01] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => ```
+Rekap Jurnal PKL
+Nama : QONIUSSALIM
+NIS  : 3407
+Kelas: XI TE 3
+
+No.  Tanggal     Jam    Ket Catatan
+----------------------------------------
+1    17-07-2025  10:26  ✅ belajar
+     merakit sound sistem
+2    18-07-2025  11:02  ✅ menata sound
+     system
+3    21-07-2025  11:53  ✅ dan
+     memperbaiki salon
+4    22-07-2025  11:18  ✅ dan mengganti
+     salon
+5    23-07-2025  08:58  ✅ dan menata
+     kabel
+6    24-07-2025  09:02  ✅ dan belum adaa
+     pekerjaan
+7    28-07-2025  10:12  ✅ membongkar
+     salon
+8    29-07-2025  09:35  ✅ menata dan
+     mengecek salon
+9    31-07-2025  11:05  ✅ memasang salon
+10   01-08-2025  10:36  🟡 pusing
+11   05-08-2025  17:20  🔴 tidak ada job
+12   06-08-2025  19:44  🔴 tidak ada job
+13   11-08-2025  15:50  🔴 tidak ada job
+14   12-08-2025  11:12  ✅ membersihkan
+15   13-08-2025  17:05  🔴 
+16   14-08-2025  17:08  🔴 
+17   15-08-2025  17:09  ✅ sedang
+     persiapan ngejob
+18   16-08-2025  16:45  🔴 
+19   17-08-2025  16:45  🔴 
+20   18-08-2025  17:26  🔵 
+21   19-08-2025  10:55  ✅ membongkar
+     salon
+22   20-08-2025  16:45  🔴 
+23   23-08-2025  16:45  🔴 
+24   24-08-2025  16:45  🔴 
+25   25-08-2025  16:48  🔴 
+26   27-08-2025  16:45  🔴 
+27   28-08-2025  16:45  🔴 
+28   30-08-2025  16:45  🔴 
+29   31-08-2025  16:45  🔴 
+30   02-09-2025  17:15  ✅ memasang
+     speaker
+31   03-09-2025  16:45  🔴 
+32   04-09-2025  17:20  ✅ sedang ngejob
+33   05-09-2025  16:45  🔴 
+34   06-09-2025  16:45  🔴 
+35   07-09-2025  16:45  🔴 
+36   08-09-2025  15:49  ✅ ngejob
+37   10-09-2025  16:45  🔴 
+38   11-09-2025  16:53  🔴 tidak ada job
+39   12-09-2025  17:21  🔵 
+40   13-09-2025  16:45  🔴 
+41   14-09-2025  16:45  🔴 
+42   15-09-2025  15:00  🔴 
+43   16-09-2025  10:50  ✅ membongkar
+     sound
+44   17-09-2025  12:30  🔵 bude ne
+     meninggal
+45   18-09-2025  20:59  ✅ ngejob
+46   20-09-2025  16:45  🔴 
+47   21-09-2025  16:45  🔴 
+48   22-09-2025  13:29  🔴 tidak ada job
+49   23-09-2025  10:55  🟡 diare
+50   24-09-2025  09:47  ✅ memperbaiki
+     speaker
+51   25-09-2025  12:16  ✅ bersih&quot;
+52   26-09-2025  09:54  🟡 demam
+53   27-09-2025  16:19  ✅ ngejob
+54   28-09-2025  10:49  ✅ ngejob
+55   29-09-2025  16:45  🔴 
+56   30-09-2025  17:22  🔵 
+57   01-10-2025  14:33  ✅ membuat box
+58   02-10-2025  14:06  🟡 masuk angin
+59   03-10-2025  14:01  🟡 masih masuk
+     angin
+60   04-10-2025  16:59  🔵 acara mendadak
+61   05-10-2025  17:47  🔴 
+62   06-10-2025  16:45  🔴 
+63   13-10-2025  11:02  ✅ menyoldir
+64   15-10-2025  12:49  ✅ memasang
+     speaker
+65   16-10-2025  12:11  ✅ ngecat sound
+66   17-10-2025  16:17  🔴 tidak ada job
+67   19-10-2025  16:45  🔴 
+68   20-10-2025  10:17  ✅ di bengkel
+69   21-10-2025  16:34  🔴 tidak ada job
+70   25-10-2025  16:45  🔴 
+71   26-10-2025  16:45  🔴 
+72   28-10-2025  10:06  ✅ 
+73   29-10-2025  17:27  ✅ di bengkel
+74   30-10-2025  17:31  ✅ di bengkel
+75   31-10-2025  17:01  ✅ di bengkel
+76   01-11-2025  16:45  🔴 
+77   02-11-2025  16:45  🔴 
+78   03-11-2025  18:12  ✅ bersih&quot;
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+    [pengirim] => 6287754446580
+    [sender] => 6287754446580
+    [senderlid] => 14637819023513@lid
+    [mode] => pn
+    [member] => 
+    [message] => ```
+Rekap Jurnal PKL
+Nama : QONIUSSALIM
+NIS  : 3407
+Kelas: XI TE 3
+
+No.  Tanggal     Jam    Ket Catatan
+----------------------------------------
+1    17-07-2025  10:26  ✅ belajar
+     merakit sound sistem
+2    18-07-2025  11:02  ✅ menata sound
+     system
+3    21-07-2025  11:53  ✅ dan
+     memperbaiki salon
+4    22-07-2025  11:18  ✅ dan mengganti
+     salon
+5    23-07-2025  08:58  ✅ dan menata
+     kabel
+6    24-07-2025  09:02  ✅ dan belum adaa
+     pekerjaan
+7    28-07-2025  10:12  ✅ membongkar
+     salon
+8    29-07-2025  09:35  ✅ menata dan
+     mengecek salon
+9    31-07-2025  11:05  ✅ memasang salon
+10   01-08-2025  10:36  🟡 pusing
+11   05-08-2025  17:20  🔴 tidak ada job
+12   06-08-2025  19:44  🔴 tidak ada job
+13   11-08-2025  15:50  🔴 tidak ada job
+14   12-08-2025  11:12  ✅ membersihkan
+15   13-08-2025  17:05  🔴 
+16   14-08-2025  17:08  🔴 
+17   15-08-2025  17:09  ✅ sedang
+     persiapan ngejob
+18   16-08-2025  16:45  🔴 
+19   17-08-2025  16:45  🔴 
+20   18-08-2025  17:26  🔵 
+21   19-08-2025  10:55  ✅ membongkar
+     salon
+22   20-08-2025  16:45  🔴 
+23   23-08-2025  16:45  🔴 
+24   24-08-2025  16:45  🔴 
+25   25-08-2025  16:48  🔴 
+26   27-08-2025  16:45  🔴 
+27   28-08-2025  16:45  🔴 
+28   30-08-2025  16:45  🔴 
+29   31-08-2025  16:45  🔴 
+30   02-09-2025  17:15  ✅ memasang
+     speaker
+31   03-09-2025  16:45  🔴 
+32   04-09-2025  17:20  ✅ sedang ngejob
+33   05-09-2025  16:45  🔴 
+34   06-09-2025  16:45  🔴 
+35   07-09-2025  16:45  🔴 
+36   08-09-2025  15:49  ✅ ngejob
+37   10-09-2025  16:45  🔴 
+38   11-09-2025  16:53  🔴 tidak ada job
+39   12-09-2025  17:21  🔵 
+40   13-09-2025  16:45  🔴 
+41   14-09-2025  16:45  🔴 
+42   15-09-2025  15:00  🔴 
+43   16-09-2025  10:50  ✅ membongkar
+     sound
+44   17-09-2025  12:30  🔵 bude ne
+     meninggal
+45   18-09-2025  20:59  ✅ ngejob
+46   20-09-2025  16:45  🔴 
+47   21-09-2025  16:45  🔴 
+48   22-09-2025  13:29  🔴 tidak ada job
+49   23-09-2025  10:55  🟡 diare
+50   24-09-2025  09:47  ✅ memperbaiki
+     speaker
+51   25-09-2025  12:16  ✅ bersih&quot;
+52   26-09-2025  09:54  🟡 demam
+53   27-09-2025  16:19  ✅ ngejob
+54   28-09-2025  10:49  ✅ ngejob
+55   29-09-2025  16:45  🔴 
+56   30-09-2025  17:22  🔵 
+57   01-10-2025  14:33  ✅ membuat box
+58   02-10-2025  14:06  🟡 masuk angin
+59   03-10-2025  14:01  🟡 masih masuk
+     angin
+60   04-10-2025  16:59  🔵 acara mendadak
+61   05-10-2025  17:47  🔴 
+62   06-10-2025  16:45  🔴 
+63   13-10-2025  11:02  ✅ menyoldir
+64   15-10-2025  12:49  ✅ memasang
+     speaker
+65   16-10-2025  12:11  ✅ ngecat sound
+66   17-10-2025  16:17  🔴 tidak ada job
+67   19-10-2025  16:45  🔴 
+68   20-10-2025  10:17  ✅ di bengkel
+69   21-10-2025  16:34  🔴 tidak ada job
+70   25-10-2025  16:45  🔴 
+71   26-10-2025  16:45  🔴 
+72   28-10-2025  10:06  ✅ 
+73   29-10-2025  17:27  ✅ di bengkel
+74   30-10-2025  17:31  ✅ di bengkel
+75   31-10-2025  17:01  ✅ di bengkel
+76   01-11-2025  16:45  🔴 
+77   02-11-2025  16:45  🔴 
+78   03-11-2025  18:12  ✅ bersih&quot;
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+    [text] => non-button message
+    [name] => 6287754446580
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86342111
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762226460
+)
+
+
+[2025-11-04 10:21:01] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 10:21:01] API RESPONSE:
+
+
+[2025-11-04 10:51:05] RAW INPUT:
+{"quick":false,"device":"082241863393","pesan":"🚨 *Device Status Report (SiAPP)*\n-----------------------------\n1. *2309MAS001* (Masjid 1): 🚫 offline\n-----------------------------\n\n📊 Total Device: 6\n🛜 Online: 3\n🚫 Offline: 3\n⏱ 2025-11-04 10:51:01","pengirim":"6287754446580","sender":"6287754446580","senderlid":"14637819023513@lid","mode":"pn","member":"","message":"🚨 *Device Status Report (SiAPP)*\n-----------------------------\n1. *2309MAS001* (Masjid 1): 🚫 offline\n-----------------------------\n\n📊 Total Device: 6\n🛜 Online: 3\n🚫 Offline: 3\n⏱ 2025-11-04 10:51:01","text":"non-button message","name":"6287754446580","location":"","url":"","type":"text","extension":"","filename":"","pollname":"","choices":[],"inboxid":86354151,"isgroup":false,"isforwarded":false,"timestamp":1762228263}
+
+[2025-11-04 10:51:05] DECODED JSON:
+Array
+(
+    [quick] => 
+    [device] => 082241863393
+    [pesan] => 🚨 *Device Status Report (SiAPP)*
+-----------------------------
+1. *2309MAS001* (Masjid 1): 🚫 offline
+-----------------------------
+
+📊 Total Device: 6
+🛜 Online: 3
+🚫 Offline: 3
+⏱ 2025-11-04 10:51:01
+    [pengirim] => 6287754446580
+    [sender] => 6287754446580
+    [senderlid] => 14637819023513@lid
+    [mode] => pn
+    [member] => 
+    [message] => 🚨 *Device Status Report (SiAPP)*
+-----------------------------
+1. *2309MAS001* (Masjid 1): 🚫 offline
+-----------------------------
+
+📊 Total Device: 6
+🛜 Online: 3
+🚫 Offline: 3
+⏱ 2025-11-04 10:51:01
+    [text] => non-button message
+    [name] => 6287754446580
+    [location] => 
+    [url] => 
+    [type] => text
+    [extension] => 
+    [filename] => 
+    [pollname] => 
+    [choices] => Array
+        (
+        )
+
+    [inboxid] => 86354151
+    [isgroup] => 
+    [isforwarded] => 
+    [timestamp] => 1762228263
+)
+
+
+[2025-11-04 10:51:05] REPLY BUILT:
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+
+[2025-11-04 10:51:05] API RESPONSE:
+

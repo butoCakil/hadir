@@ -1,0 +1,1885 @@
+{
+    "081284744696": {
+        "type": "confirm_libur",
+        "nis": "3396",
+        "nama": "ILHAM BIAN FERARIS",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-10 16:45:20"
+    },
+    "088237299746": {
+        "type": "confirm_libur",
+        "nis": "3405",
+        "nama": "NADIF EVAN FADILLAH",
+        "kelas": "XI TE 3",
+        "waktu": "2025-08-18 16:45:11"
+    },
+    "081803910112": {
+        "type": "confirm_libur",
+        "nis": "3357",
+        "nama": "KIRANI CAHYA SYAFRIDA",
+        "kelas": "XI TE 2",
+        "waktu": "2025-08-13 16:45:09"
+    },
+    "085727467809": {
+        "type": "confirm_libur",
+        "nis": "3266",
+        "nama": "Rizka Ainun Najwa",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-08-22 16:45:06"
+    },
+    "085175374732": {
+        "type": "confirm_reg",
+        "nis": "3209",
+        "nama": "Ardhan Auli Agustino",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-08-20 13:14:14"
+    },
+    "081568278751": {
+        "type": "confirm_libur",
+        "nis": "3426",
+        "nama": "FERI NUR ARIF",
+        "kelas": "XI TE 4",
+        "waktu": "2025-10-20 16:45:23"
+    },
+    "081933774829": {
+        "type": "confirm_libur",
+        "nis": "3170",
+        "nama": "Ata' Al Karim",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:21"
+    },
+    "085641630036": {
+        "type": "confirm_libur",
+        "nis": "3143",
+        "nama": "Fina Anggraeni",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:09"
+    },
+    "085868751929": {
+        "type": "confirm_libur",
+        "nis": "3146",
+        "nama": "Kailla Nur Setyoningrum",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:10"
+    },
+    "081575769486": {
+        "type": "confirm_libur",
+        "nis": "3167",
+        "nama": "Anggi Riana",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:10"
+    },
+    "085290753519": {
+        "type": "confirm_reg",
+        "nis": "3266",
+        "nama": "Rizka Ainun Najwa",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-08-22 20:37:48"
+    },
+    "08818523749": {
+        "type": "confirm_reg",
+        "nis": "3234",
+        "nama": "Airin Dewi Aryanti",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-08-25 11:26:32"
+    },
+    "088227913760": {
+        "type": "confirm_libur",
+        "nis": "3425",
+        "nama": "FALDI IRGI FIRMANSYAH",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-12 16:45:16"
+    },
+    "082314758105": {
+        "type": "confirm_libur",
+        "nis": "3345",
+        "nama": "AJI PRAMUDIYA",
+        "kelas": "XI TE 2",
+        "waktu": "2025-09-19 16:45:17"
+    },
+    "082134812649": {
+        "type": "confirm_libur",
+        "nis": "3333",
+        "nama": "STEVI RIZKI ADINKA",
+        "kelas": "XI TE 1",
+        "waktu": "2025-09-01 16:45:12"
+    },
+    "0895422840637": {
+        "type": "confirm_libur",
+        "nis": "3144",
+        "nama": "Fransiskus Hernandes Pratama",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-03 16:45:10"
+    },
+    "085770525357": {
+        "type": "confirm_libur",
+        "nis": "3184",
+        "nama": "Muhamad Wildan Sofaturrohman",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:10"
+    },
+    "085215758966": {
+        "type": "confirm_libur",
+        "nis": "3277",
+        "nama": "Evita Nurmasari",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-11-12 16:45:06"
+    },
+    "082137138308": {
+        "type": "confirm_libur",
+        "nis": "3298",
+        "nama": "Shita Putri Alesya",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-11-12 16:45:06"
+    },
+    "082188603857": {
+        "type": "confirm_libur",
+        "nis": "3263",
+        "nama": "Raisya Zania Al'Aini",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-11 16:45:07"
+    },
+    "088232269734": {
+        "type": "confirm_libur",
+        "nis": "3303",
+        "nama": "Valencia Cahaya Kinara",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-11-11 16:45:07"
+    },
+    "083103650323": {
+        "type": "confirm_libur",
+        "nis": "3254",
+        "nama": "Muhammad Mahiib Nawaaf Faiz",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-12 16:45:08"
+    },
+    "081225133080": {
+        "type": "confirm_libur",
+        "nis": "3201",
+        "nama": "Agung Rakhmadi",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-11-12 16:45:08"
+    },
+    "087767122452": {
+        "type": "confirm_libur",
+        "nis": "3447",
+        "nama": "Kahfi Fatahillah",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:13"
+    },
+    "089601568548": {
+        "type": "confirm_libur",
+        "nis": "3384",
+        "nama": "ANJELIYAH",
+        "kelas": "XI TE 3",
+        "waktu": "2025-10-18 16:45:16"
+    },
+    "082221295108": {
+        "type": "confirm_libur",
+        "nis": "3322",
+        "nama": "KHOIRUN NISA AMALI RAYA",
+        "kelas": "XI TE 1",
+        "waktu": "2025-11-11 16:45:14"
+    },
+    "0895330292517": {
+        "type": "confirm_libur",
+        "nis": "3288",
+        "nama": "Najwa Arzaella",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-11-12 16:45:06"
+    },
+    "089525837409": {
+        "type": "confirm_libur",
+        "nis": "3249",
+        "nama": "Jingga Nelfi",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-12 16:45:06"
+    },
+    "081802508389": {
+        "type": "confirm_libur",
+        "nis": "3295",
+        "nama": "Rizqy Nurfirdaus",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-11-12 16:45:07"
+    },
+    "083102939212": {
+        "type": "confirm_libur",
+        "nis": "3233",
+        "nama": "Yoga Andi Kurniawan",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-11-12 16:45:08"
+    },
+    "088233635407": {
+        "type": "confirm_libur",
+        "nis": "3152",
+        "nama": "Nora Wahyu Ayunda",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:12"
+    },
+    "0882003039004": {
+        "type": "confirm_libur",
+        "nis": "3194",
+        "nama": "Vera Ardiyani",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:12"
+    },
+    "087842001085": {
+        "type": "confirm_libur",
+        "nis": "3412",
+        "nama": "AFFAN WIDYATMOKO",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-12 16:45:15"
+    },
+    "088706649716": {
+        "type": "confirm_libur",
+        "nis": "3138",
+        "nama": "Devan Aji Kurniawan",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:11"
+    },
+    "08895544602": {
+        "type": "confirm_libur",
+        "nis": "3159",
+        "nama": "Sofi Setianing Mutia",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:12"
+    },
+    "0882005441292": {
+        "type": "confirm_libur",
+        "nis": "3253",
+        "nama": "Mufidatul Azzahra",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-12 16:45:05"
+    },
+    "0882005178467": {
+        "type": "confirm_libur",
+        "nis": "3174",
+        "nama": "Elif Fitra Aryana",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:13"
+    },
+    "089681101573": {
+        "type": "confirm_libur",
+        "nis": "3347",
+        "nama": "AYUDIYA SAFITRI",
+        "kelas": "XI TE 2",
+        "waktu": "2025-11-12 16:45:20"
+    },
+    "085338811530": {
+        "type": "confirm_libur",
+        "nis": "3147",
+        "nama": "Klara Novita Anggraeni",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:10"
+    },
+    "085724039690": {
+        "type": "confirm_libur",
+        "nis": "3193",
+        "nama": "Vayla Andin Chayneta",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:13"
+    },
+    "089507113652 ": {
+        "type": "confirm_libur",
+        "nis": "3352",
+        "nama": "ERIK FAIZ YULIANTO",
+        "kelas": "XI TE 2",
+        "waktu": "2025-11-10 16:45:24"
+    },
+    "088216504143": {
+        "type": "confirm_libur",
+        "nis": "3358",
+        "nama": "LILIK NADA NAFI'AH",
+        "kelas": "XI TE 2",
+        "waktu": "2025-11-12 16:45:20"
+    },
+    "085701756163": {
+        "type": "confirm_reg",
+        "nis": "3207",
+        "nama": "Anggun Tike Prasetyowati",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-09-17 10:19:25"
+    },
+    "088216267322": {
+        "type": "confirm_libur",
+        "nis": "3207",
+        "nama": "Anggun Tike Prasetyowati",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-09-17 16:45:06"
+    },
+    "085147101623": {
+        "type": "confirm_libur",
+        "nis": "3209",
+        "nama": "Ardhan Auli Agustino",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-09-17 16:45:06"
+    },
+    "088221081216": {
+        "type": "confirm_libur",
+        "nis": "3118",
+        "nama": "Muhammad Yusuf",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-10 16:45:10"
+    },
+    "081390404460": {
+        "type": "confirm_libur",
+        "nis": "3141",
+        "nama": "Elma Fatya",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:10"
+    },
+    "089666984070": {
+        "type": "confirm_libur",
+        "nis": "3297",
+        "nama": "Serli Sholeha Pratama",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-11-12 16:45:06"
+    },
+    "089527148305": {
+        "type": "confirm_libur",
+        "nis": "3157",
+        "nama": "Samuel Jibran Hasugian",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-11 16:45:09"
+    },
+    "0882005406227": {
+        "type": "confirm_libur",
+        "nis": "3329",
+        "nama": "NARIMA HANANTI",
+        "kelas": "XI TE 1",
+        "waktu": "2025-10-31 16:45:32"
+    },
+    "088902860010": {
+        "type": "confirm_libur",
+        "nis": "3127",
+        "nama": "Zainal Abidin",
+        "kelas": "XI AT 1",
+        "waktu": "2025-10-22 16:45:10"
+    },
+    "085964423194": {
+        "type": "confirm_libur",
+        "nis": "3209",
+        "nama": "Ardhan Auli Agustino",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-11-12 16:45:05"
+    },
+    "087888055654": {
+        "type": "confirm_libur",
+        "nis": "3171",
+        "nama": "Carla Valensia Evelin",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:09"
+    },
+    "087775523544": {
+        "type": "confirm_libur",
+        "nis": "3222",
+        "nama": "Muhammad Affan Nibras Razan",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-11-12 16:45:07"
+    },
+    "083843413023": {
+        "type": "confirm_libur",
+        "nis": "3414",
+        "nama": "ALFAN MAULANA CATUR DEWANGGA",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-12 16:45:16"
+    },
+    "0882003270428": {
+        "type": "confirm_libur",
+        "nis": "3375",
+        "nama": "VIVI RINDIATI",
+        "kelas": "XI TE 2",
+        "waktu": "2025-10-02 16:45:14"
+    },
+    "0881023187199": {
+        "type": "confirm_libur",
+        "nis": "3292",
+        "nama": "Puspa Indah Karismatika",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-11-12 16:45:09"
+    },
+    "088980139027": {
+        "type": "confirm_libur",
+        "nis": "3161",
+        "nama": "Veucia Madalena",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:12"
+    },
+    "082227107374": {
+        "type": "confirm_libur",
+        "nis": "3423",
+        "nama": "ERRY AZETHASARI",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-10 16:45:27"
+    },
+    "088214817397": {
+        "type": "confirm_libur",
+        "nis": "3225",
+        "nama": "Rachel Aulia Alfanida",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-10-24 16:45:11"
+    },
+    "0882005192350": {
+        "type": "confirm_libur",
+        "nis": "3094",
+        "nama": "Anaya Prita",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:11"
+    },
+    "083137889444": {
+        "type": "confirm_libur",
+        "nis": "3301",
+        "nama": "Tian Kamelia Azzahro",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-11-12 16:45:08"
+    },
+    "089637316897": {
+        "type": "confirm_libur",
+        "nis": "3179",
+        "nama": "Ghybran Arza Faelasuf",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:11"
+    },
+    "082325435407": {
+        "type": "confirm_libur",
+        "nis": "3444",
+        "nama": "VENNA DYAS PUSPITA",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-12 16:45:15"
+    },
+    "085700412876": {
+        "type": "confirm_libur",
+        "nis": "3227",
+        "nama": "Rista Dwi Amelia",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-11-10 16:45:10"
+    },
+    "085702876885": {
+        "type": "confirm_libur",
+        "nis": "3180",
+        "nama": "Havis Candra",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:12"
+    },
+    "087882816834": {
+        "type": "confirm_libur",
+        "nis": "3386",
+        "nama": "CHILYA ASFIA LAILATU ROHMAH",
+        "kelas": "XI TE 3",
+        "waktu": "2025-10-27 16:45:15"
+    },
+    "08980290675": {
+        "type": "confirm_libur",
+        "nis": "3270",
+        "nama": "Aflah Zaidan Putranto",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-11-12 16:45:07"
+    },
+    "089525630525": {
+        "type": "confirm_libur",
+        "nis": "3413",
+        "nama": "AFRA PRAMUDYA HASWAN YUSUFPRANOWO",
+        "kelas": "XI TE 4",
+        "waktu": "2025-10-30 16:45:26"
+    },
+    "0882003786779": {
+        "type": "confirm_libur",
+        "nis": "3380",
+        "nama": "ALIFFA ISCAHYA",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-12 16:45:21"
+    },
+    "082322808692": {
+        "type": "confirm_libur",
+        "nis": "3098",
+        "nama": "Bagus Ihsan",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:11"
+    },
+    "085713716914": {
+        "type": "confirm_libur",
+        "nis": "3148",
+        "nama": "Latri Rahmadani",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:11"
+    },
+    "082220600727": {
+        "type": "confirm_libur",
+        "nis": "3214",
+        "nama": "Fardanesha Aga Rananta",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-11-12 16:45:06"
+    },
+    "0882008911735": {
+        "type": "confirm_libur",
+        "nis": "3247",
+        "nama": "Iqbal Asief Alfiansyah",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-11 16:45:07"
+    },
+    "088980744237": {
+        "type": "confirm_libur",
+        "nis": "3276",
+        "nama": "Charisa Ahsanun Nadiya",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-10-13 16:45:08"
+    },
+    "081392085919": {
+        "type": "confirm_libur",
+        "nis": "3226",
+        "nama": "Rifinindya Ayu Clearesta",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-11-12 16:45:08"
+    },
+    "085624061576": {
+        "type": "confirm_libur",
+        "nis": "3333",
+        "nama": "STEVI RIZKI ADINKA",
+        "kelas": "XI TE 1",
+        "waktu": "2025-11-08 16:45:23"
+    },
+    "085866334437": {
+        "type": "confirm_libur",
+        "nis": "3217",
+        "nama": "Ibtida Ramadhani",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-11-12 16:45:06"
+    },
+    "0882007750072": {
+        "type": "confirm_libur",
+        "nis": "3163",
+        "nama": "Zarqa Bahjah Chaerani",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:11"
+    },
+    "088216497709": {
+        "type": "confirm_libur",
+        "nis": "3188",
+        "nama": "Shifa Isdiyanti",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:12"
+    },
+    "08816799055": {
+        "type": "confirm_libur",
+        "nis": "3400",
+        "nama": "KHILYATUL FAIZAH",
+        "kelas": "XI TE 3",
+        "waktu": "2025-10-18 16:45:17"
+    },
+    "085702421019": {
+        "type": "confirm_libur",
+        "nis": "3187",
+        "nama": "Sania Dhea Aulia",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:09"
+    },
+    "081933522604": {
+        "type": "confirm_libur",
+        "nis": "3178",
+        "nama": "Gabriel Wisnu Tri Kuncoro",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:10"
+    },
+    "0882008432231": {
+        "type": "confirm_libur",
+        "nis": "3331",
+        "nama": "RIA AULIA SHAFIRA",
+        "kelas": "XI TE 1",
+        "waktu": "2025-10-14 16:45:17"
+    },
+    "0882008102422": {
+        "type": "confirm_libur",
+        "nis": "3446",
+        "nama": "ZAHRATUL MUNASIFAH",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-12 16:45:20"
+    },
+    "089517923801": {
+        "type": "confirm_libur",
+        "nis": "3302",
+        "nama": "Uly Zahrotul Laely",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-11-11 16:45:05"
+    },
+    "081316335631": {
+        "type": "confirm_libur",
+        "nis": "3252",
+        "nama": "Mazida Tamania",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-11 16:45:08"
+    },
+    "083154709182": {
+        "type": "confirm_libur",
+        "nis": "3319",
+        "nama": "ILHAM MA'ARIEF",
+        "kelas": "XI TE 1",
+        "waktu": "2025-11-11 16:45:19"
+    },
+    "082324989860": {
+        "type": "confirm_libur",
+        "nis": "3190",
+        "nama": "Tiara Wulan Agustin",
+        "kelas": "XI AT 3",
+        "waktu": "2025-10-16 16:45:11"
+    },
+    "089531925815": {
+        "type": "confirm_libur",
+        "nis": "3365",
+        "nama": "NOVA DENNI DWI ARYANI",
+        "kelas": "XI TE 2",
+        "waktu": "2025-11-11 16:45:17"
+    },
+    "083116239542": {
+        "type": "confirm_libur",
+        "nis": "3431",
+        "nama": "MUHAMMAD GIBRAN ALFARIZI",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-12 16:45:21"
+    },
+    "085729938441": {
+        "type": "confirm_libur",
+        "nis": "3248",
+        "nama": "Isnaini Muflikhah",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-12 16:45:09"
+    },
+    "268362861035668": {
+        "type": "confirm_libur",
+        "nis": "3131",
+        "nama": "Ahmad Khoirul Anwar",
+        "kelas": "XI AT 2",
+        "waktu": "2025-10-17 16:45:09"
+    },
+    "085694145632": {
+        "type": "confirm_libur",
+        "nis": "3128",
+        "nama": "Abhilash",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-11 16:45:12"
+    },
+    "08818693081": {
+        "type": "confirm_libur",
+        "nis": "3326",
+        "nama": "MUHAMMAD AFIF RIFAI",
+        "kelas": "XI TE 1",
+        "waktu": "2025-11-11 16:45:16"
+    },
+    "085728197106": {
+        "type": "confirm_libur",
+        "nis": "3421",
+        "nama": "ELSA KUSUMANINGSIH",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-12 16:45:17"
+    },
+    "085713108879": {
+        "type": "confirm_libur",
+        "nis": "3406",
+        "nama": "NUR AMELIA EKA SARI",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-12 16:45:21"
+    },
+    "082220339653": {
+        "type": "confirm_libur",
+        "nis": "3439",
+        "nama": "RASYA SAPUTRA",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-12 16:45:17"
+    },
+    "081575837551": {
+        "type": "confirm_libur",
+        "nis": "3408",
+        "nama": "SALSABILA NUR AFIFAH",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-12 16:45:20"
+    },
+    "085700675936": {
+        "type": "confirm_libur",
+        "nis": "3230",
+        "nama": "Suci Ambar Sari",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-11-12 16:45:06"
+    },
+    "083150767914": {
+        "type": "confirm_libur",
+        "nis": "3257",
+        "nama": "Noviana Nur Aisyah",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-12 16:45:05"
+    },
+    "081329253489": {
+        "type": "confirm_libur",
+        "nis": "3121",
+        "nama": "Nunung Dwi Rahayu",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:10"
+    },
+    "08895536951": {
+        "type": "confirm_libur",
+        "nis": "3120",
+        "nama": "Navi Tsatuzzahro",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:12"
+    },
+    "08813756395": {
+        "type": "confirm_libur",
+        "nis": "3183",
+        "nama": "Lubna Ammar",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:12"
+    },
+    "081575817358": {
+        "type": "confirm_libur",
+        "nis": "3428",
+        "nama": "LARAS RENITASARI",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-12 16:45:15"
+    },
+    "081936839821": {
+        "type": "confirm_libur",
+        "nis": "3384",
+        "nama": "ANJELIYAH",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-12 16:45:15"
+    },
+    "088985836951": {
+        "type": "confirm_libur",
+        "nis": "3259",
+        "nama": "Nusaibah Nur Aslamiyah",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-10 16:45:04"
+    },
+    "085879333598": {
+        "type": "confirm_libur",
+        "nis": "3196",
+        "nama": "Vika Dwi Aryanti",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:12"
+    },
+    "081390992598": {
+        "type": "confirm_libur",
+        "nis": "3363",
+        "nama": "NABILLA UMI LATIVAH",
+        "kelas": "XI TE 2",
+        "waktu": "2025-10-29 16:45:21"
+    },
+    "085643910584": {
+        "type": "confirm_libur",
+        "nis": "3286",
+        "nama": "Muhammad Alveto Aufarasyad",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-11-12 16:45:08"
+    },
+    "0882006497480": {
+        "type": "confirm_libur",
+        "nis": "3176",
+        "nama": "Faranisa Dwi Setyarini",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:10"
+    },
+    "0882003480995": {
+        "type": "confirm_libur",
+        "nis": "3131",
+        "nama": "Ahmad Khoirul Anwar",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:11"
+    },
+    "088215484042": {
+        "type": "confirm_libur",
+        "nis": "3105",
+        "nama": "Dian Bayu Pratama",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:11"
+    },
+    "083862035857": {
+        "type": "confirm_libur",
+        "nis": "3099",
+        "nama": "Bunga Citra Lestari",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:11"
+    },
+    "085726886826": {
+        "type": "confirm_libur",
+        "nis": "3440",
+        "nama": "SALSABILA ZAHRO MUNA",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-12 16:45:16"
+    },
+    "085607863793": {
+        "type": "confirm_libur",
+        "nis": "3251",
+        "nama": "Leli Aufa Risqi",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-12 16:45:07"
+    },
+    "08818766026": {
+        "type": "confirm_libur",
+        "nis": "3291",
+        "nama": "Olivia Putri Andreyani",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-11-10 16:45:07"
+    },
+    "08882915637": {
+        "type": "confirm_libur",
+        "nis": "3149",
+        "nama": "Muhammad Brian Pratama",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:14"
+    },
+    "08895621437": {
+        "type": "confirm_libur",
+        "nis": "3385",
+        "nama": "ARTIKA RAMADHANI",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-12 16:45:15"
+    },
+    "083147542282": {
+        "type": "confirm_libur",
+        "nis": "3335",
+        "nama": "VAHDIL KHOERUL PUTRA",
+        "kelas": "XI TE 1",
+        "waktu": "2025-11-12 16:45:17"
+    },
+    "081227281674": {
+        "type": "confirm_libur",
+        "nis": "3389",
+        "nama": "DZAKA DZUL HANAN",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-12 16:45:20"
+    },
+    "082227309463": {
+        "type": "confirm_libur",
+        "nis": "3381",
+        "nama": "AMANDA VERLITA NINGRUM",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-12 16:45:20"
+    },
+    "089524531416": {
+        "type": "confirm_libur",
+        "nis": "3267",
+        "nama": "Solekha Agustina",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-07 16:45:06"
+    },
+    "085702770056": {
+        "type": "confirm_libur",
+        "nis": "3245",
+        "nama": "Hikmah Farzana Wijil Kawuri",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-12 16:45:07"
+    },
+    "088221399254": {
+        "type": "confirm_libur",
+        "nis": "3289",
+        "nama": "Neisa Chilmi Ristia",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-10-31 16:45:20"
+    },
+    "082234860513": {
+        "type": "confirm_libur",
+        "nis": "3433",
+        "nama": "MUHAMMAD RAKHA ZIDAN",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-11 16:45:18"
+    },
+    "085727503381": {
+        "type": "confirm_libur",
+        "nis": "3220",
+        "nama": "Lolita Ava Amelia",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-11-12 16:45:06"
+    },
+    "085786564221": {
+        "type": "confirm_libur",
+        "nis": "3275",
+        "nama": "Azahra Maulida Widiyanti",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-11-12 16:45:09"
+    },
+    "089673754500": {
+        "type": "confirm_libur",
+        "nis": "3173",
+        "nama": "Dini Adinata",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-11 16:45:11"
+    },
+    "085641954864": {
+        "type": "confirm_libur",
+        "nis": "3166",
+        "nama": "Alfia Rahmatika",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:14"
+    },
+    "083876687047": {
+        "type": "confirm_libur",
+        "nis": "3426",
+        "nama": "FERI NUR ARIF",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-12 16:45:16"
+    },
+    "088215624090": {
+        "type": "confirm_libur",
+        "nis": "3361",
+        "nama": "MUHAMMAD GATHAN",
+        "kelas": "XI TE 2",
+        "waktu": "2025-11-11 16:45:18"
+    },
+    "08895884306": {
+        "type": "confirm_libur",
+        "nis": "3313",
+        "nama": "FATKHUR ROZAK",
+        "kelas": "XI TE 1",
+        "waktu": "2025-11-10 16:45:26"
+    },
+    "082220276526": {
+        "type": "confirm_libur",
+        "nis": "3274",
+        "nama": "Aprilia Endah Permata",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-11-11 16:45:06"
+    },
+    "082223565446": {
+        "type": "confirm_libur",
+        "nis": "3264",
+        "nama": "Raka Alfarizi",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-10 16:45:08"
+    },
+    "082120949474": {
+        "type": "confirm_libur",
+        "nis": "3111",
+        "nama": "Ime Melynda Soraya",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:10"
+    },
+    "088806914474": {
+        "type": "confirm_libur",
+        "nis": "3096",
+        "nama": "Arga Buffon Syah Putra",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:11"
+    },
+    "0882006806535": {
+        "type": "confirm_libur",
+        "nis": "3435",
+        "nama": "NATISYA CHAERUNISA",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-04 16:45:27"
+    },
+    "082122665965": {
+        "type": "confirm_libur",
+        "nis": "3316",
+        "nama": "HALWA MAYLA ROBBY",
+        "kelas": "XI TE 1",
+        "waktu": "2025-11-12 16:45:21"
+    },
+    "085879616291": {
+        "type": "confirm_libur",
+        "nis": "3308",
+        "nama": "Cahyo Nugroho",
+        "kelas": "XI TE 1",
+        "waktu": "2025-11-12 16:45:21"
+    },
+    "083157643897": {
+        "type": "confirm_libur",
+        "nis": "3244",
+        "nama": "Hanadia Nur Anisya",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-07 16:45:06"
+    },
+    "083869652213": {
+        "type": "confirm_libur",
+        "nis": "3442",
+        "nama": "SATYA AZZIDAN",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-12 16:45:15"
+    },
+    "089518701476": {
+        "type": "confirm_libur",
+        "nis": "3407",
+        "nama": "QONIUSSALIM",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-12 16:45:17"
+    },
+    "089688067685": {
+        "type": "confirm_libur",
+        "nis": "3311",
+        "nama": "DWI ANDIKA PUTRA",
+        "kelas": "XI TE 1",
+        "waktu": "2025-10-30 16:45:24"
+    },
+    "083807265787": {
+        "type": "confirm_libur",
+        "nis": "3117",
+        "nama": "Muhammad Faruq Umar Zaky",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:14"
+    },
+    "088227746553": {
+        "type": "confirm_libur",
+        "nis": "3370",
+        "nama": "ROLISTA ANDRIYANI",
+        "kelas": "XI TE 2",
+        "waktu": "2025-11-12 16:45:15"
+    },
+    "081227957326": {
+        "type": "confirm_libur",
+        "nis": "3348",
+        "nama": "DANAR HERDIANSYAH",
+        "kelas": "XI TE 2",
+        "waktu": "2025-11-12 16:45:20"
+    },
+    "089530522933": {
+        "type": "confirm_libur",
+        "nis": "3225",
+        "nama": "Rachel Aulia Alfanida",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-11-12 16:45:08"
+    },
+    "089510514408": {
+        "type": "confirm_libur",
+        "nis": "3287",
+        "nama": "Muhammad Ega Rahmadani",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-11-12 16:45:08"
+    },
+    "088985949067": {
+        "type": "confirm_libur",
+        "nis": "3265",
+        "nama": "Rasyid 'Aqma Shahira",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-11 16:45:08"
+    },
+    "083895639376": {
+        "type": "confirm_libur",
+        "nis": "3112",
+        "nama": "Indah Kusuma Dewi",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:14"
+    },
+    "089637353433": {
+        "type": "confirm_libur",
+        "nis": "3441",
+        "nama": "SASA LIVIA ROSADA",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-12 16:45:16"
+    },
+    "085775083103": {
+        "type": "confirm_libur",
+        "nis": "3407",
+        "nama": "QONIUSSALIM",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-03 16:45:16"
+    },
+    "081393063367": {
+        "type": "confirm_libur",
+        "nis": "3219",
+        "nama": "Kiray Asri Tristania",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-11-01 16:45:05"
+    },
+    "082333598745": {
+        "type": "confirm_libur",
+        "nis": "3258",
+        "nama": "Nur Alisan",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-01 16:45:06"
+    },
+    "085870949792": {
+        "type": "confirm_libur",
+        "nis": "3256",
+        "nama": "Naura Prita Andini",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-12 16:45:07"
+    },
+    "088987090117": {
+        "type": "confirm_libur",
+        "nis": "3400",
+        "nama": "KHILYATUL FAIZAH",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-12 16:45:15"
+    },
+    "085643496702": {
+        "type": "confirm_libur",
+        "nis": "3420",
+        "nama": "BRIYAN RAGIL SAPUTRO",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-12 16:45:17"
+    },
+    "083839172218": {
+        "type": "confirm_libur",
+        "nis": "3376",
+        "nama": "YAZID NAZAR ARIFIN",
+        "kelas": "XI TE 2",
+        "waktu": "2025-11-01 16:45:20"
+    },
+    "55345183486199": {
+        "type": "confirm_reg",
+        "nis": "3314",
+        "nama": "FILLA RITA LESTYANI",
+        "kelas": "XI TE 1",
+        "waktu": "2025-11-01 17:13:12"
+    },
+    "085600470911": {
+        "type": "confirm_libur",
+        "nis": "3240",
+        "nama": "Dinda Yuliningtyas",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-06 16:45:08"
+    },
+    "087872717630": {
+        "type": "confirm_libur",
+        "nis": "3137",
+        "nama": "Desty Mulyani",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:09"
+    },
+    "138620203753727": {
+        "type": "confirm_reg",
+        "nis": "3204",
+        "nama": "Alin Jenny Putami",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-11-03 10:37:21"
+    },
+    "088983581599": {
+        "type": "confirm_libur",
+        "nis": "3215",
+        "nama": "Fisna Aretia Ferlani",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-11-03 16:45:09"
+    },
+    "0882006537668": {
+        "type": "confirm_libur",
+        "nis": "3276",
+        "nama": "Charisa Ahsanun Nadiya",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-11-12 16:45:08"
+    },
+    "088238153749": {
+        "type": "confirm_libur",
+        "nis": "3189",
+        "nama": "Syafira Azzahra",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:12"
+    },
+    "082137633187": {
+        "type": "confirm_libur",
+        "nis": "3379",
+        "nama": "AKHMAD ARYA DWI ANDIKA",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-12 16:45:19"
+    },
+    "085921570751": {
+        "type": "confirm_libur",
+        "nis": "3351",
+        "nama": "EISAH MAR'ATUS SHOLIHAH",
+        "kelas": "XI TE 2",
+        "waktu": "2025-11-12 16:45:20"
+    },
+    "216836322938947": {
+        "type": "confirm_reg",
+        "nis": "3442",
+        "nama": "SATYA AZZIDAN",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-04 11:44:50"
+    },
+    "083894435075": {
+        "type": "confirm_libur",
+        "nis": "3290",
+        "nama": "Nisfatul Hidayah",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-11-12 16:45:05"
+    },
+    "08895333354574": {
+        "type": "confirm_libur",
+        "nis": "3261",
+        "nama": "Puput Fitria Wahyu Ningsih",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-04 16:45:16"
+    },
+    "089654037709": {
+        "type": "confirm_libur",
+        "nis": "3162",
+        "nama": "Zahira Vallent Safara",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:09"
+    },
+    "088980181353": {
+        "type": "confirm_libur",
+        "nis": "3404",
+        "nama": "MUKHAMMAD KHASIF AL ABBY",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-10 16:45:20"
+    },
+    "088983807812": {
+        "type": "confirm_libur",
+        "nis": "3337",
+        "nama": "VINDA LESTARI",
+        "kelas": "XI TE 1",
+        "waktu": "2025-11-12 16:45:16"
+    },
+    "085786824303": {
+        "type": "confirm_libur",
+        "nis": "3362",
+        "nama": "MUHAMMAD RAYHAN SAPUTRA",
+        "kelas": "XI TE 2",
+        "waktu": "2025-11-12 16:45:17"
+    },
+    "085702771040": {
+        "type": "confirm_reg",
+        "nis": "3246",
+        "nama": "Intan Ayu Nadhifah",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-04 17:10:47"
+    },
+    "085866555014": {
+        "type": "confirm_libur",
+        "nis": "3383",
+        "nama": "ANITA WAHYU ANGGRAENI",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-12 16:45:16"
+    },
+    "0882005923062": {
+        "type": "confirm_libur",
+        "nis": "3356",
+        "nama": "IKA ISNAENI SALUPI",
+        "kelas": "XI TE 2",
+        "waktu": "2025-11-12 16:45:17"
+    },
+    "089528212082": {
+        "type": "confirm_libur",
+        "nis": "3372",
+        "nama": "SERUNI NUR FATIMAH",
+        "kelas": "XI TE 2",
+        "waktu": "2025-11-12 16:45:18"
+    },
+    "083824716945": {
+        "type": "confirm_libur",
+        "nis": "3402",
+        "nama": "LIZA HARLINA SAPUTRI",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-12 16:45:19"
+    },
+    "085786824402": {
+        "type": "confirm_libur",
+        "nis": "3168",
+        "nama": "Aprilia Khusna",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:09"
+    },
+    "085801394897": {
+        "type": "confirm_libur",
+        "nis": "3151",
+        "nama": "Neyla Rahmawati",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:10"
+    },
+    "085600453632": {
+        "type": "confirm_libur",
+        "nis": "3114",
+        "nama": "Jibran Aldo Dzakwan",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-11 16:45:12"
+    },
+    "082189267533": {
+        "type": "confirm_libur",
+        "nis": "3093",
+        "nama": "Aldavi Lambet Wardana",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:13"
+    },
+    "08895563704": {
+        "type": "confirm_libur",
+        "nis": "3116",
+        "nama": "Maisya Ulfiana Fauziyyah",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:14"
+    },
+    "088902897622": {
+        "type": "confirm_libur",
+        "nis": "3360",
+        "nama": "MAR'ATUN RODHIYAH",
+        "kelas": "XI TE 2",
+        "waktu": "2025-11-11 16:45:14"
+    },
+    "085800652023": {
+        "type": "confirm_libur",
+        "nis": "3377",
+        "nama": "AFFATA MAHRUS RAMADHAN",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-06 16:45:16"
+    },
+    "082322806801": {
+        "type": "confirm_libur",
+        "nis": "3314",
+        "nama": "FILLA RITA LESTYANI",
+        "kelas": "XI TE 1",
+        "waktu": "2025-11-11 16:45:15"
+    },
+    "085640194737": {
+        "type": "confirm_libur",
+        "nis": "3359",
+        "nama": "LUNA EKA AVRILYA",
+        "kelas": "XI TE 2",
+        "waktu": "2025-11-12 16:45:17"
+    },
+    "08818672068": {
+        "type": "confirm_libur",
+        "nis": "3339",
+        "nama": "WANDA AYU CRISTIA",
+        "kelas": "XI TE 1",
+        "waktu": "2025-11-08 16:45:26"
+    },
+    "081326843548": {
+        "type": "confirm_libur",
+        "nis": "3239",
+        "nama": "Dewi Samudra",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-12 16:45:05"
+    },
+    "085741770093": {
+        "type": "confirm_libur",
+        "nis": "3205",
+        "nama": "Amrina Rosyada",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-11-11 16:45:06"
+    },
+    "085727763236": {
+        "type": "confirm_libur",
+        "nis": "3206",
+        "nama": "Ana Meilia Solichah",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-11-07 16:45:08"
+    },
+    "0882005612112": {
+        "type": "confirm_libur",
+        "nis": "3156",
+        "nama": "Re Faiz Maulana",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:11"
+    },
+    "0882006361874": {
+        "type": "confirm_libur",
+        "nis": "3182",
+        "nama": "Keyla Putri Amelia",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:13"
+    },
+    "085870947209": {
+        "type": "confirm_libur",
+        "nis": "3134",
+        "nama": "Alisya Ika Pratiwi",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:13"
+    },
+    "085727611231": {
+        "type": "confirm_libur",
+        "nis": "3181",
+        "nama": "Karina Dita Sastiya",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-10 16:45:16"
+    },
+    "083152695729": {
+        "type": "confirm_libur",
+        "nis": "3092",
+        "nama": "Agniya Almayra Khairiani",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:13"
+    },
+    "088215001765": {
+        "type": "confirm_libur",
+        "nis": "3416",
+        "nama": "ARVINDA ICHA AFFABLE",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-12 16:45:15"
+    },
+    "083893882088": {
+        "type": "confirm_libur",
+        "nis": "3323",
+        "nama": "MAHDA TAFTIAN",
+        "kelas": "XI TE 1",
+        "waktu": "2025-11-12 16:45:15"
+    },
+    "085215360248": {
+        "type": "confirm_libur",
+        "nis": "3336",
+        "nama": "VANY GRAVRELA RAMADANI",
+        "kelas": "XI TE 1",
+        "waktu": "2025-11-12 16:45:16"
+    },
+    "088214380329": {
+        "type": "confirm_libur",
+        "nis": "3386",
+        "nama": "CHILYA ASFIA LAILATU ROHMAH",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-12 16:45:16"
+    },
+    "0882003916102": {
+        "type": "confirm_libur",
+        "nis": "3429",
+        "nama": "LUTFIA KHOIRUNISA",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-11 16:45:15"
+    },
+    "089505695339": {
+        "type": "confirm_libur",
+        "nis": "3273",
+        "nama": "Annisa Siti Az Zahra",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-11-12 16:45:06"
+    },
+    "083854322194": {
+        "type": "confirm_libur",
+        "nis": "3399",
+        "nama": "KHARISA SYAFARA",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-11 16:45:16"
+    },
+    "087898550547": {
+        "type": "confirm_libur",
+        "nis": "3345",
+        "nama": "AJI PRAMUDIYA",
+        "kelas": "XI TE 2",
+        "waktu": "2025-11-12 16:45:19"
+    },
+    "082221366882": {
+        "type": "confirm_reg",
+        "nis": "3272",
+        "nama": "Anisa Rafidah Hanan",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-11-08 21:40:57"
+    },
+    "089519799811": {
+        "type": "confirm_libur",
+        "nis": "3231",
+        "nama": "Wilda Chusnu A'Mali",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-11-12 16:45:07"
+    },
+    "085806114377": {
+        "type": "confirm_libur",
+        "nis": "3211",
+        "nama": "Eliana Dwi Pramesti",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-11-12 16:45:07"
+    },
+    "082223230853": {
+        "type": "confirm_libur",
+        "nis": "3126",
+        "nama": "Yulia Puspita Sari",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:10"
+    },
+    "083146208833": {
+        "type": "confirm_libur",
+        "nis": "3158",
+        "nama": "Septia Zuna Al Maghfira",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:12"
+    },
+    "082133730586": {
+        "type": "confirm_libur",
+        "nis": "3192",
+        "nama": "Ulfiyatul Nurul Azizah",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:12"
+    },
+    "089626385405": {
+        "type": "confirm_libur",
+        "nis": "3175",
+        "nama": "Faith Edgar Syafif",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:13"
+    },
+    "085868756601": {
+        "type": "confirm_libur",
+        "nis": "3104",
+        "nama": "Devina Kayra Natasya",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:14"
+    },
+    "08816748667": {
+        "type": "confirm_libur",
+        "nis": "3107",
+        "nama": "Elita Setya Ningsih",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:14"
+    },
+    "083140023097": {
+        "type": "confirm_libur",
+        "nis": "3363",
+        "nama": "NABILLA UMI LATIVAH",
+        "kelas": "XI TE 2",
+        "waktu": "2025-11-10 16:45:19"
+    },
+    "087842724883": {
+        "type": "confirm_libur",
+        "nis": "3366",
+        "nama": "NUR KHOZIN ALFIAN",
+        "kelas": "XI TE 2",
+        "waktu": "2025-11-11 16:45:14"
+    },
+    "081617309952": {
+        "type": "confirm_libur",
+        "nis": "3307",
+        "nama": "ARIFUDIN ANJAR SUKMAJATI",
+        "kelas": "XI TE 1",
+        "waktu": "2025-11-10 16:45:24"
+    },
+    "085189066804": {
+        "type": "confirm_libur",
+        "nis": "3405",
+        "nama": "NADIF EVAN FADILLAH",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-12 16:45:19"
+    },
+    "089601133217": {
+        "type": "confirm_libur",
+        "nis": "3327",
+        "nama": "MUHAMMAD ARIYANTO FAUZAN",
+        "kelas": "XI TE 1",
+        "waktu": "2025-11-11 16:45:18"
+    },
+    "089527144937": {
+        "type": "confirm_libur",
+        "nis": "3418",
+        "nama": "AYUDIA FARA",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-12 16:45:20"
+    },
+    "088983117539": {
+        "type": "confirm_reg",
+        "nis": "3396",
+        "nama": "ILHAM BIAN FERARIS",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-11 10:03:22"
+    },
+    "083829031557": {
+        "type": "confirm_libur",
+        "nis": "3200",
+        "nama": "Afrizal Widhi Putra",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-11-12 16:45:05"
+    },
+    "089601570278": {
+        "type": "confirm_libur",
+        "nis": "3236",
+        "nama": "Aulia Fatihatul Riska",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-11 16:45:07"
+    },
+    "085700754623": {
+        "type": "confirm_libur",
+        "nis": "3164",
+        "nama": "Adhiek Hafiera Septya",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-11 16:45:09"
+    },
+    "088227263822": {
+        "type": "confirm_libur",
+        "nis": "3123",
+        "nama": "Ryvani Ayu Cahyani",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:10"
+    },
+    "087896605004": {
+        "type": "confirm_libur",
+        "nis": "3122",
+        "nama": "Reza Agung Praditya",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:11"
+    },
+    "085236996242": {
+        "type": "confirm_libur",
+        "nis": "3119",
+        "nama": "Mustika Putri",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:11"
+    },
+    "088225476418": {
+        "type": "confirm_libur",
+        "nis": "3154",
+        "nama": "Puput Rizki Agustin",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:11"
+    },
+    "085647845238": {
+        "type": "confirm_libur",
+        "nis": "3139",
+        "nama": "Dhiyaa Almas Aliifah",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:11"
+    },
+    "085786825423": {
+        "type": "confirm_libur",
+        "nis": "3145",
+        "nama": "Ita Febriyana",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-11 16:45:11"
+    },
+    "085803607177": {
+        "type": "confirm_libur",
+        "nis": "3150",
+        "nama": "Naura Evelyn Inestifa",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:11"
+    },
+    "088226798176": {
+        "type": "confirm_libur",
+        "nis": "3097",
+        "nama": "Arwen Shinta Dewi",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:12"
+    },
+    "088901290387": {
+        "type": "confirm_libur",
+        "nis": "3124",
+        "nama": "Sarah Bunga Nur Apriliandari",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:12"
+    },
+    "081229072217": {
+        "type": "confirm_libur",
+        "nis": "3165",
+        "nama": "Aisyah Alvina Humairo'",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:12"
+    },
+    "088227759214": {
+        "type": "confirm_libur",
+        "nis": "3109",
+        "nama": "Farah Atqiya'",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:13"
+    },
+    "0882006502228": {
+        "type": "confirm_libur",
+        "nis": "3101",
+        "nama": "Cheren Carolin Taniara Sri Sulastri",
+        "kelas": "XI AT 1",
+        "waktu": "2025-11-12 16:45:14"
+    },
+    "081329200719": {
+        "type": "confirm_libur",
+        "nis": "3391",
+        "nama": "FARHAN KHOIRU NIZAR",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-12 16:45:17"
+    },
+    "089652391963": {
+        "type": "confirm_libur",
+        "nis": "3387",
+        "nama": "DAFA DWI PRASETYA",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-12 16:45:18"
+    },
+    "08812911279": {
+        "type": "confirm_libur",
+        "nis": "3369",
+        "nama": "RIKE RAHMADANI",
+        "kelas": "XI TE 2",
+        "waktu": "2025-11-12 16:45:18"
+    },
+    "085624831191": {
+        "type": "confirm_libur",
+        "nis": "3397",
+        "nama": "IMAS NUR RAHMAWATI",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-12 16:45:20"
+    },
+    "08895381978": {
+        "type": "confirm_libur",
+        "nis": "3393",
+        "nama": "FEBRIYANTI ASTUTI",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-12 16:45:21"
+    },
+    "083140888482": {
+        "type": "confirm_libur",
+        "nis": "3422",
+        "nama": "ERLINTANG PRADITA NANSIH",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-11 16:45:20"
+    },
+    "088226403689": {
+        "type": "confirm_libur",
+        "nis": "3282",
+        "nama": "Laura Risnawati",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-11-12 16:45:05"
+    },
+    "082137023299": {
+        "type": "confirm_libur",
+        "nis": "3223",
+        "nama": "Nara Sintya",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-11-12 16:45:05"
+    },
+    "0895615650402": {
+        "type": "confirm_libur",
+        "nis": "3243",
+        "nama": "Elsa Anggraeni",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-12 16:45:06"
+    },
+    "085712024509": {
+        "type": "confirm_libur",
+        "nis": "3210",
+        "nama": "Devi Cintia Putri",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-11-12 16:45:06"
+    },
+    "085230308488": {
+        "type": "confirm_libur",
+        "nis": "3229",
+        "nama": "Shifa Azzahra",
+        "kelas": "XI DKV 1",
+        "waktu": "2025-11-12 16:45:07"
+    },
+    "085864092676": {
+        "type": "confirm_libur",
+        "nis": "3235",
+        "nama": "Asyifa Nur Rahmadhani",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-12 16:45:07"
+    },
+    "0895333354574": {
+        "type": "confirm_libur",
+        "nis": "3261",
+        "nama": "Puput Fitria Wahyu Ningsih",
+        "kelas": "XI DKV 2",
+        "waktu": "2025-11-12 16:45:07"
+    },
+    "088983586948": {
+        "type": "confirm_libur",
+        "nis": "3294",
+        "nama": "Riska Yolanda",
+        "kelas": "XI DKV 3",
+        "waktu": "2025-11-12 16:45:09"
+    },
+    "08970467890": {
+        "type": "confirm_libur",
+        "nis": "3133",
+        "nama": "Akasya Maulida Ahmad",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:10"
+    },
+    "085773690806": {
+        "type": "confirm_libur",
+        "nis": "3177",
+        "nama": "Fatimatuzahra",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:13"
+    },
+    "089522545820": {
+        "type": "confirm_libur",
+        "nis": "3191",
+        "nama": "Toni Franata",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:13"
+    },
+    "085743373002": {
+        "type": "confirm_libur",
+        "nis": "3132",
+        "nama": "Aisya Kinara Verlita",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:13"
+    },
+    "087844187202": {
+        "type": "confirm_libur",
+        "nis": "3185",
+        "nama": "Rasyad Aryo Wibowo",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:14"
+    },
+    "082325287165": {
+        "type": "confirm_libur",
+        "nis": "3140",
+        "nama": "Dipa Odi Ajudya",
+        "kelas": "XI AT 2",
+        "waktu": "2025-11-12 16:45:14"
+    },
+    "08812412979": {
+        "type": "confirm_libur",
+        "nis": "3395",
+        "nama": "GAZA DIVINIYA TUZZAHRA",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-12 16:45:16"
+    },
+    "082138703073": {
+        "type": "confirm_libur",
+        "nis": "3445",
+        "nama": "ZAENAL MUSSOFA ASSYAAUQI",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-12 16:45:16"
+    },
+    "08817671424": {
+        "type": "confirm_libur",
+        "nis": "3354",
+        "nama": "HELENNA AZZARIYA ARISTA PUTRI",
+        "kelas": "XI TE 2",
+        "waktu": "2025-11-12 16:45:17"
+    },
+    "085742050760": {
+        "type": "confirm_libur",
+        "nis": "3424",
+        "nama": "EVANIA NOVERLITA UTAMI",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-12 16:45:17"
+    },
+    "08895619873": {
+        "type": "confirm_libur",
+        "nis": "3390",
+        "nama": "ELSHA SOFIA PUTRI",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-12 16:45:17"
+    },
+    "082327919424": {
+        "type": "confirm_libur",
+        "nis": "3330",
+        "nama": "NIKEN WARDANI",
+        "kelas": "XI TE 1",
+        "waktu": "2025-11-12 16:45:19"
+    },
+    "082220301008": {
+        "type": "confirm_libur",
+        "nis": "3409",
+        "nama": "TRI CAHYANI CANDRA DEWI",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-12 16:45:20"
+    },
+    "085801381961": {
+        "type": "confirm_libur",
+        "nis": "3382",
+        "nama": "AMBAR DWI CAHYANI",
+        "kelas": "XI TE 3",
+        "waktu": "2025-11-12 16:45:21"
+    },
+    "081943567565": {
+        "type": "confirm_libur",
+        "nis": "3334",
+        "nama": "SYIVA WIDIYANTI",
+        "kelas": "XI TE 1",
+        "waktu": "2025-11-12 16:45:21"
+    },
+    "085865086862": {
+        "type": "confirm_libur",
+        "nis": "3432",
+        "nama": "MUHAMMAD NAUFAL BAIHAQI",
+        "kelas": "XI TE 4",
+        "waktu": "2025-11-12 16:45:21"
+    },
+    "085876801202": {
+        "type": "confirm_libur",
+        "nis": "3198",
+        "nama": "Zada Siraj",
+        "kelas": "XI AT 3",
+        "waktu": "2025-11-12 16:45:21"
+    },
+    "088902973436": {
+        "type": "confirm_reg",
+        "nis": "2819",
+        "nama": "Fatika Wulan Sari",
+        "kelas": "XII TE 2",
+        "waktu": "2025-12-15 20:03:57"
+    }
+}

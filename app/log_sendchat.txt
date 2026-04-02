@@ -1,0 +1,333 @@
+
+[2025-11-04 08:19:56] SENDMESSAGE CALL
+Request Data:
+Array
+(
+    [device_id] => 1ad076cd-f291-4946-9376-03ae1d744797
+    [number] => 082241863393
+    [message] => ✅ Tes diterima. Presensi bisa dilakukan sekarang.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+    [file] => 
+)
+Response:
+{"status":true,"data":{"id":2690202},"message":"success sent message"}
+
+[2025-11-04 08:20:01] SENDMESSAGE CALL
+Request Data:
+Array
+(
+    [device_id] => 1ad076cd-f291-4946-9376-03ae1d744797
+    [number] => 082241863393
+    [message] => `Bakas 6285736235961 iya` sepertinya salah tulis.
+Mungkin seharusnya: *balas*
+
+Coba ulangi kirim pesan dengan ejaan yang benar.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+    [file] => 
+)
+Response:
+{"status":true,"data":{"id":2690204},"message":"success sent message"}
+
+[2025-11-04 08:20:17] SENDMESSAGE CALL
+Request Data:
+Array
+(
+    [device_id] => 1ad076cd-f291-4946-9376-03ae1d744797
+    [number] => 6285736235961
+    [message] => iya
+
+👤 ~ Admin 1
+    [file] => 
+)
+Response:
+{"status":true,"data":{"id":2690213},"message":"success sent message"}
+
+[2025-11-04 08:21:37] SENDMESSAGE CALL
+Request Data:
+Array
+(
+    [device_id] => 1ad076cd-f291-4946-9376-03ae1d744797
+    [number] => 085971806005
+    [message] => ```✅ Presensi Berhasil
+
+🗓️ Status   : masuk
+📝 Catatan  : 
+👤 Nama     : Agung Nugroho
+🏫 Kelas    : XI AT 2
+
+⏰ Waktu    : Selasa, 4 November 2025
+Pukul 08:21:24```
+
+📊 Lihat rekap presensi kamu, bisa balas dengan ketik `rekap` atau ketik `6` atau klik link ini:
+https://pklbos.smknbansari.sch.id/?akses=detail&nis=3130
+
+ℹ️ Fitur *Lupa Absen* sudah aktif.
+Balas dengan ketik `2` untuk petunjuk penggunaannya.
+
+ℹ️ Fitur *Batal Absen / Hapus Absen* sudah aktif.
+Balas dengan ketik `batal` untuk petunjuk penggunaannya.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+    [file] => 
+)
+Response:
+{"status":true,"data":{"id":2690237},"message":"success sent message"}
+
+[2025-11-04 08:23:06] SENDMESSAGE CALL
+Request Data:
+Array
+(
+    [device_id] => 1ad076cd-f291-4946-9376-03ae1d744797
+    [number] => 6287754446580
+    [message] => working great!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+    [file] => 
+)
+Response:
+{"status":true,"data":{"id":2690278},"message":"success sent message"}
+
+[2025-11-04 08:25:56] SENDMESSAGE CALL
+Request Data:
+Array
+(
+    [device_id] => 1ad076cd-f291-4946-9376-03ae1d744797
+    [number] => 08816733047
+    [message] => ```✅ Presensi Berhasil
+
+🗓️ Status   : masuk
+📝 Catatan  : 
+👤 Nama     : KEYSA MISSU VERLITA
+🏫 Kelas    : XI TE 3
+
+⏰ Waktu    : Selasa, 4 November 2025
+Pukul 08:25:46```
+
+📊 Lihat rekap presensi kamu, bisa balas dengan ketik `rekap` atau ketik `6` atau klik link ini:
+https://pklbos.smknbansari.sch.id/?akses=detail&nis=3398
+
+ℹ️ Fitur *Lupa Absen* sudah aktif.
+Balas dengan ketik `2` untuk petunjuk penggunaannya.
+
+ℹ️ Fitur *Batal Absen / Hapus Absen* sudah aktif.
+Balas dengan ketik `batal` untuk petunjuk penggunaannya.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+    [file] => 
+)
+Response:
+{"status":true,"data":{"id":2690365},"message":"success sent message"}
+
+[2025-11-04 08:26:21] SENDMESSAGE CALL
+Request Data:
+Array
+(
+    [device_id] => 1ad076cd-f291-4946-9376-03ae1d744797
+    [number] => 6287754446580
+    [message] => image message
+https://filesamples.com/samples/image/jpg/sample_640%C3%97426.jpg
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+    [file] => 
+)
+Response:
+{"status":true,"data":{"id":2690375},"message":"success sent message"}
+
+[2025-11-04 08:26:48] SENDMESSAGE CALL
+Request Data:
+Array
+(
+    [device_id] => 1ad076cd-f291-4946-9376-03ae1d744797
+    [number] => 0882006862943
+    [message] => ```✅ Presensi Berhasil
+
+🗓️ Status   : masuk
+📝 Catatan  : 
+👤 Nama     : NOFIA NANDA UTAMI
+🏫 Kelas    : XI TE 4
+
+⏰ Waktu    : Selasa, 4 November 2025
+Pukul 08:26:40```
+
+📊 Lihat rekap presensi kamu, bisa balas dengan ketik `rekap` atau ketik `6` atau klik link ini:
+https://pklbos.smknbansari.sch.id/?akses=detail&nis=3437
+
+ℹ️ Fitur *Lupa Absen* sudah aktif.
+Balas dengan ketik `2` untuk petunjuk penggunaannya.
+
+ℹ️ Fitur *Batal Absen / Hapus Absen* sudah aktif.
+Balas dengan ketik `batal` untuk petunjuk penggunaannya.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+    [file] => 
+)
+Response:
+{"status":true,"data":{"id":2690382},"message":"success sent message"}
+
+[2025-11-04 08:27:15] SENDMESSAGE CALL
+Request Data:
+Array
+(
+    [device_id] => 1ad076cd-f291-4946-9376-03ae1d744797
+    [number] => 085842718125
+    [message] => ```✅ Presensi Berhasil
+
+🗓️ Status   : masuk
+📝 Catatan  : 
+👤 Nama     : AJI RIZKY ADHITYA
+🏫 Kelas    : XI TE 3
+
+⏰ Waktu    : Selasa, 4 November 2025
+Pukul 08:27:06```
+
+📊 Lihat rekap presensi kamu, bisa balas dengan ketik `rekap` atau ketik `6` atau klik link ini:
+https://pklbos.smknbansari.sch.id/?akses=detail&nis=3378
+
+ℹ️ Fitur *Lupa Absen* sudah aktif.
+Balas dengan ketik `2` untuk petunjuk penggunaannya.
+
+ℹ️ Fitur *Batal Absen / Hapus Absen* sudah aktif.
+Balas dengan ketik `batal` untuk petunjuk penggunaannya.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+    [file] => 
+)
+Response:
+{"status":true,"data":{"id":2690396},"message":"success sent message"}
+
+[2025-11-04 08:28:26] SENDMESSAGE CALL
+Request Data:
+Array
+(
+    [device_id] => 1ad076cd-f291-4946-9376-03ae1d744797
+    [number] => 6285747881171
+    [message] => working great!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+    [file] => 
+)
+Response:
+{"status":true,"data":{"id":2690419},"message":"success sent message"}
+
+[2025-11-04 08:28:40] SENDMESSAGE CALL
+Request Data:
+Array
+(
+    [device_id] => 1ad076cd-f291-4946-9376-03ae1d744797
+    [number] => 085842718125
+    [message] => ```📋 Rekap Presensi
+Nama : AJI RIZKY ADHITYA
+Kelas: XI TE 3
+NIS  : 3378
+
+Masuk : 95 x
+Izin  : 0 x
+Sakit : 0 x
+Libur : 9 x
+
+Tgl  Jul  Aug  Sep  Oct  Nov  
+1    -    ✅  ✅  ✅  🔴 
+2    -    -    ✅  ✅  ✅  
+3    -    ✅  ✅  ✅  ✅  
+4    -    ✅  ✅  🔴 ✅  
+5    -    ✅  -    ✅  -    
+6    -    ✅  -    ✅  -    
+7    -    ✅  ✅  ✅  -    
+8    -    ✅  ✅  ✅  -    
+9    -    -    ✅  ✅  -    
+10   -    ✅  ✅  ✅  -    
+11   -    ✅  ✅  🔴 -    
+12   -    ✅  ✅  ✅  -    
+13   -    ✅  🔴 ✅  -    
+14   -    ✅  ✅  ✅  -    
+15   -    ✅  ✅  ✅  -    
+16   -    ✅  ✅  ✅  -    
+17   ✅  -    ✅  ✅  -    
+18   ✅  🔴 ✅  🔴 -    
+19   ✅  ✅  ✅  ✅  -    
+20   ✅  ✅  🔴 ✅  -    
+21   ✅  ✅  ✅  ✅  -    
+22   ✅  ✅  ✅  ✅  -    
+23   ✅  ✅  ✅  ✅  -    
+24   ✅  ✅  ✅  ✅  -    
+25   ✅  ✅  ✅  🔴 -    
+26   -    ✅  ✅  ✅  -    
+27   ✅  ✅  🔴 ✅  -    
+28   ✅  ✅  ✅  ✅  -    
+29   ✅  ✅  ✅  ✅  -    
+30   ✅  -    ✅  ✅  -    
+31   ✅  ✅  -    ✅  -    
+```
+Keterangan:
+✅ = Masuk
+🔵 = Izin
+🟡 = Sakit
+🔴 = Libur
+❌ = Tidak Presensi
+
+📊 Rekap kehadiranmu bisa dilihat melalui link berikut:
+
+🔗 https://pklbos.smknbansari.sch.id/?akses=detail&nis=3378
+
+📌 Silakan buka link di atas untuk melihat detail kehadiranmu.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+    [file] => 
+)
+Response:
+{"status":true,"data":{"id":2690421},"message":"success sent message"}
+
+[2025-11-04 08:28:44] SENDMESSAGE CALL
+Request Data:
+Array
+(
+    [device_id] => 1ad076cd-f291-4946-9376-03ae1d744797
+    [number] => 082221295108
+    [message] => ```✅ Presensi Berhasil
+
+🗓️ Status   : masuk
+📝 Catatan  : sedang menjaga no antrian
+👤 Nama     : KHOIRUN NISA AMALI RAYA
+🏫 Kelas    : XI TE 1
+
+⏰ Waktu    : Selasa, 4 November 2025
+Pukul 08:28:29```
+
+📊 Lihat rekap presensi kamu, bisa balas dengan ketik `rekap` atau ketik `6` atau klik link ini:
+https://pklbos.smknbansari.sch.id/?akses=detail&nis=3322
+
+ℹ️ Fitur *Lupa Absen* sudah aktif.
+Balas dengan ketik `2` untuk petunjuk penggunaannya.
+
+ℹ️ Fitur *Batal Absen / Hapus Absen* sudah aktif.
+Balas dengan ketik `batal` untuk petunjuk penggunaannya.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 _Sistem Presensi PKL_ *SMK Negeri Bansari*
+©️ ```2025```
+    [file] => 
+)
+Response:
+{"status":true,"data":{"id":2690424},"message":"success sent message"}

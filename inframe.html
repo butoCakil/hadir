@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <style>
+        /* Iframe fullscreen style */
+        body,
+        html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+            /* Hindari scroll */
+        }
+
+        iframe {
+            width: 100vw;
+            /* Lebar maksimum sesuai viewport */
+            height: 100vh;
+            /* Tinggi maksimum sesuai viewport */
+            border: none;
+            /* Hapus border */
+        }
+    </style>
+
+    <iframe id="iframe-presensi" src="https://hadir.masbendz.com" title="Halaman Presensi PKL/Magang SMKN Bansari"
+        allowfullscreen></iframe>
+
+    <script>
+        // Fungsi untuk mengambil parameter GET dari URL
+        function getParameterByName(name) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(name);
+        }
+
+        // Ambil parameter akses dan nis
+        const akses = getParameterByName('akses');
+        const nis = getParameterByName('nis');
+
+        // Cek jika akses = detail dan nis ada
+        if (akses === 'detail' && nis) {
+            // Update src iframe ke URL yang diinginkan
+            const iframeSrc = `https://hadir.masbendz.com/presensi/detail.php?nis=${nis}`;
+            document.getElementById('iframe-presensi').src = iframeSrc;
+        } else if (akses === 'presensi'){
+            const iframeSrc = `https://hadir.masbendz.com/presensi/`;
+            document.getElementById('iframe-presensi').src = iframeSrc;
+        } else if (akses === 'datasiswa'){
+            const iframeSrc = `https://hadir.masbendz.com/datasiswa/`;
+            document.getElementById('iframe-presensi').src = iframeSrc;
+        }
+    </script>
+</body>
+
+</html>
