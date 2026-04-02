@@ -1,12 +1,4 @@
 <?php
-/* 
-Refresh Token: 
-1//04NRFm_TRa-z1CgYIARAAGAQSNwF-L9IrB2905sO-SC6yDQLmHkw0IB1Y206BEV5-Umv-KREIfX4jyaMvknoHLzsUXBrugGNfg1c
-
-Access Token: 
-ya29.a0AeDClZDKkkGUkue-Xiv2By-Ltc6NgS8qDKRVgMH3sO26MtpU5g4aTPX-_ZZaDEdt8_YvaUr1_UrB_JdmX6R0GEymLDEZEPIEf9ijzBRzdlNRoNKpVDdHNw186mUeg1R69Ex5JZUYAhlaqeDtT-vvCTKJAseBCGTcwX1c8lBLaCgYKAXISARESFQHGX2MiwT_Oldh4x_ML7rPxoDUT7g0175
-*/
-
 function uploadFileToGoogleDrive($accessToken, $filePath, $fileName) {
     $url = 'https://www.googleapis.com/upload/drive/v3/files?uploadType=multipart';
     $boundary = uniqid();
