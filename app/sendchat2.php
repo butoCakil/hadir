@@ -7,7 +7,7 @@ function sendMessage($number, $message, $file)
     $ch = curl_init($url);
 
     $data = array(
-        'device_id' => '933bbd2c-8931-421c-8432-8e1ba9b3d795',
+        'device_id' => 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
         'number' => $number,
         'message' => $message,
         'file' => $file,
